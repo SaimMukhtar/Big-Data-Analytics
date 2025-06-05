@@ -1,0 +1,1033 @@
+There are so many good textbooks in the field of
+human psychology that anyone producing a new one
+must have a good excuse, ready to explain his
+temerity. Our reason for bringing together the various
+authors who have contributed the chapters of this
+book is a very simple one. Most textbooks are written
+just for future professional psychologists, i.e. for
+students who are going to adopt psychology as their
+life's work, and whose main area of concentration is
+psychology. These students are, of course, a very important group, yet psychology is becoming more and
+more important to professionals in other fields as well
+-psychiatrists and doctors generally, sociologists,
+educationalists, social workers, penologists, and
+many, many more. Indeed, hardly any profession
+which deals with people has reached a standard of
+perfection where training in scientific knowledge of
+people would not be useful; these many non-professional psychologists are not very well catered for in
+the standard type of textbook which takes up
+much time and space with discussions of issues which
+may be important and interesting to the psychologist,
+but which are irrelevant to the many non-specialists
+who wish to gain insight into the main findings of
+psychology which might be relevant to their own
+work.
+We have tried to keep this particularly in mind
+when designing this book. We hope, therefore, that it
+will fulfil a useful double role: firstly, as a practical
+introductory textbook for full-time psychology students and, secondly, as a comprehensive textbook for
+students and professionals in other fields who need a
+proper understanding of psychology.
+This book is largely based on the psychology
+course that is taught to psychiatrists in training here
+at the Institute of Psychiatry in London. It tends to
+give emphasis to the more applied and 'human' areas
+of psychology-personality, social, developmental
+and abnormal psychology in particular-but there is
+also a large section on basic psychological processes
+because we believe that a firm foundation in the
+general principles of behaviour is essential to effective
+applications in the abnormal, or any other, field. It is,
+therefore, a general psychology textbook. It differs
+from other such texts not so much in content as in
+approach. We have concentrated on presenting as
+much factual material as possible within the space
+available, minimising the amount of history and
+philosophy that abounds in many psychology texts. In
+this sense the book is more comparable to modern
+textbooks of 'harder' sciences such as physics and
+physiology. Theories are considered important, but
+only theories that are scientific in the sense that they
+continuously interact with empirically derived facts.
+Theories which seldom make contact with facts (e.g.
+Jung's theory of archetypes) are generally ignored.
+There is one other point about which we would like
+to be explicit. Textbooks often state different theories
+regarding a particular phenomenon, or set of phenomena, without giving any opinion as to which of these
+theories might be judged superior to the others. In a
+textbook directed just at future scientists, this is not
+unreasonable; but in a book such as this it seemed
+more acceptable to make judgements and to deal
+largely with a particular theory, if we felt that this
+theory was superior to its rivals in its explanatory
+powers and in its support in experimental research.
+Similarly, textbooks often deal with discredited researches, simply because textbooks have always dealt
+with these studies in the past; it seemed pointless to
+us to discuss the research first, and then point out
+why it was not worth discussing. We have preferred
+to omit the study in question altogether. In some
+cases, discredited methods which at one time were
+widely used, and a knowledge of which might be useful in reading older texts, have been very briefly discussed and the main reasons given for not going into
+details; projective techmques are an example of this
+genre. Theories which have been widely held, but
+which have not found ready support in experiment,
+have not been dealt with, even critically, as already
+pointed out; the only exceptions are psychoanalysis
+and Laing's existentialism. These theories have
+achieved such widespread popularity that we felt it
+necessary to show in some detail why they are not
+highly regarded by psychologists.
+It is sometimes said that introductory textbooks
+offer a more systematic treatment if they are authored
+rather than edited. We believe that the science of
+psychology has reached such proportions that no one
+man can claim all-round expertise, and it is especially
+when a broad area has to be condensed into a
+chapter of twenty pages or less that it is necessary
+to have a specialist to do the job. Only a specialist
+has sufficient perspective within an area to be able to
+abstract the most important material, and only a
+specialist is sufficiently familiar with the current literature to be able to sift out genuine discoveries and
+viii Introduction
+developments from temporary fads and fashions. The
+chapters in this book have been mainly prepared by
+the members of our own Department who are
+currently teaching those topics; they will be recognised as distinguished researchers who have made
+substantial contributions to the literature in their
+respective fields. Where possible, the chapters are
+based on lecture notes that have evolved progressively
+over several years, being continually improved and
+refined as a result of the teaching experience and
+feedback from the students. This, we believe, is one of
+the primary advantages that this text may have over
+its predecessors.
+We have tried to write at a level which would be
+intelligible to the layman as well as the professional,
+and without too many references, the very profligacy
+of which he might find confusing. This has not always
+been easy and occasionally we have failed. Our
+failures are, however, more often due to difficulties
+inherent in the subject matter of a given chapter than
+to malevolence of the author; it is easier to write at an
+elementary level about Interviewing than about
+Memory, for instance. We have tried to combine
+scholarly exactness with simplicity and clarity; such
+compromises are inherently difficult and no doubt we
+have not succeeded in every instance. Yet the effort
+seemed worth making. We have tried to organise the
+field in such a way that the reader would go away
+with an overall pattern, some hint of a general organisation of mental activity, in his mind; we have aimed
+at presenting a model of man and have applied this
+model to various practical problems, such as criminal
+ity, mental disorder, etc. This, of course, is the most
+difficult task of all and we are not optimistic that reviewers will concede that we have had even a moderate
+success. Nevertheless, we feel that psychology should
+strive for something of the kind; the usual collection
+of unrelated chapter headings does not inspire students with confidence in the existence of a unitary
+subject called 'psychology'. We hope that students
+will get the feeling of this model toward which psychology is groping, and will feel inspired to try to
+apply it in practice; as we shall argue, such applications as have been made of it in various spheres have
+by no means been completely unsuccessful.
+We have kept the book as short as possible so that
+it might also be useful to students as a practical aid to
+retention for examination purposes (the limitations of
+lecture notes in this connection are well known and,
+in any case, the process of taking notes tends to
+interfere with appreciation of the lecture). This leaves
+the lecturer free to elaborate on the material in the
+text and discuss interesting recent developments in
+the field. Most of the material contained in this book
+is dealt with in much greater detail in reference books
+such as The Handbook of Abnormal Psychology
+(Eysenck, 1973) and it may often help the student to
+consult this work in addition. Obviously some sacrifices have to be made for the sake of brevity, but we
+have tried as far as possible to keep the book
+interesting and informative as well as understandable
+and manageable.
+Hans J. Eysenck and Glenn D:Wilson
+Institute of Psychiatry,
+University of London,
+January, 1976
+BASIC PROCESSES
+Chapter 1
+PSYCHOLOGY AS A
+BIO-SOCIAl SCIENCE
+H.J. Eysenck
+Psychology is so all-pervasive and so important that it
+enters into our every thought and action; by definition
+almost, the facts and theories of psychology are
+central to our mental and physical activities. Psychology, clearly, is about us if it is about anything:
+our behaviour, our minds, our emotions, our
+intelligence, our crimes and mental disorders, our
+problems. This means that ever since human being,
+came to the fore in the evolutionary struggle, they
+have concerned them,elves with psychological
+questions. Some of these questions are philosophical
+in nature-Who are we? Why are we here? How did
+~e come to be the way we are? Why do we differ so
+profoundly from each other? Other questions have a
+more practical turn-How can we make other people
+do what we want them to do? Who is best suited for
+this or that position? Will she be a good wife for me?
+Is he trustworthy? Psychology i, still split into a pure
+and an applied section, although this differentiation
+tends to get more and more blurred. In any case,
+psychology has a long past; but it ha, a very short
+history. The history of psychology as a science is just
+about 100 years long; it was only in 1879 that
+Wilhelm Wundt founded the first formal psychological laboratory in Leipzig. Its growth has been very
+rapid since those early days, but it is still very young
+in comparison with long-established sciences like
+physics, or chemistry. Both past and history have
+been reviewed in great detail, and with many fascinating details about the many famous people who
+contributed to them, by Boring (1950); the History of
+Experimental Psychology presents an excellent account of how psychology grew to its present stature.
+PSYCHOLOGY AND BEHAVIOURISM
+Just as an elephant is easier to recognise than to
+describe, so is psychology; p,ychologists tend to
+know what they are about, but they do not alway,
+agree on a definition of their speciality. Literally,
+psychology is the science of the mind or soul, but
+psychologists at the time of the first world war
+rebelled against such an unenlightening name; we are
+merely defining one unknown in terms of another.
+They also rebelled against the method of controlled
+introspection which was then the most widely used
+method of experimental psychology; nothing of any
+value seemed to have grown out of all the counties,
+hours spent looking into one's own mind, or getting
+some colleagues or senior students to look into theirs.
+Furthermore, what one found there seemed to be
+determined by what one expected to find-or what
+one's teacher expected to find; Wiirzburg psychologists found different content in their minds to
+Gottingen psychologists, in much the same way that
+patients treated by Freudian analysts dream in
+Freudian symbols, while patients treated by Jungian
+analysts dream in Jungian symbols. This rebellion,
+led by the founder of the Behaviourist school, J. B.
+Watson, suggested that psychology is concerned with
+behaviour, not with minds; it is only behaviour
+(including in this term all the events taking place
+inside the body, such as muscular contractions, nerve
+signals, hormonal secretions and the like, as well as
+outwardly visible movements, speech, etc.) that can
+be observed objectively and can thus serve as the
+basis for a properly scientific discipline. Psychology
+as the science of behaviour is now almost universally
+agreed by psychologists to be the best label we can
+pin to our subject matter; mind and soul are recognised as relics from the Cartesian dualism which
+split matter and mind asunder in such a way that
+no-one could put them together again, a dualism
+which is fairly universally recognised nowadays to
+have served its purpose, and to be of little use in
+dealing with the observable world of living things.
+The tenets of behaviourism are often misunderstood, and it may be worthwhile to point out that
+there are different varieties of behaviourism. Two in
+particular must be sharply differentiated, if only
+because it is the first of these that is usually held up
+to ridicule by critics, while it is the second which is
+actually embraced by psychologists working in the
+experimental tradition. In the first place, then, we
+have philosophical behaviourism; this makes statements about the real existence of matter and the nonexistence of mind, consciousness, etc.-statements
+which are reminiscent of naive realism (a rather oldfashioned philosophical doctrine, not taken seriously
+by professional philosophers), and which are just
+embarrassing to most psychologists who do not have
+much interest in philosophy anyway. In the second
+place, we have methodological behaviourism; this
+makes statements about the kinds of evidence that we
+need in psychology, and the kinds of proof required
+in order to substantiate scientific hypotheses. Methodologically, we are all behaviourists; we recognise
+that behaviour is our subject matter, this being the
+only objective 'given' that we can study, and that is in
+4 Basic processes
+the public domain. Peter Medawar once jokingly said
+that the essence of behaviourism lay in the distinction
+between saying: 'The dog was sad' and 'The dog
+howled'-there is much truth in this remark. We can
+observe that the dog is howling; to deduce that the
+dog is sad constitutes an anthropomorphic jump into
+uncertainty that takes us straight out of science.
+Note that methodological behaviourism does not
+say (as does philosophical behaviourism) that we have
+no consciousness; such nonsensical declarations
+scientists leave with advantage to philosophers. Be·
+haviourists would tend to agree on some such
+statement as this: Verbal communication is behaviour,
+and is therefore a proper source of information for
+psychologists. Whether it can be admitted as a true
+indicator of some inner state depends on whether or
+not corroborative evidence is available. The fact that
+I say 'I have a headache' cannot be accepted
+necessarily as evidence that I have a headache; I may
+simply be trying to get out of some engagement by
+pleading illness. But it cannot be rejected as meaningless either; I often tell the truth. One would look for
+corroborative, behavioural evidence of the 'headache'
+if one really had serious doubts; thus one might
+apply physiological measures of muscular stress to
+the frontalis muscles which are usually involved in
+genuine headaches. But be that as it may, it is possible
+to agree on certain procedures which incorporate
+verbal behaviour with other types of behaviour and
+make it subject to psychological analysis.
+VERBAL BEHAVIOUR
+Verbal behaviour is often self-validating. If you wish
+to know whether I am colour blind, you can present
+me with certain colours, of equal brightness, and ask
+me to name them; that I can do so is ipso facto
+evidence of my not being colour blind; it is not
+necessary to speculate about the state of my consciousness. A purist might prefer to condition certain
+behaviours to the colours, and see whether the conditioned responses occur in me; thus he might tFach
+me to salivate on seeing red by always giving me
+something to eat after showing me a patch of red
+colour. But this would be regarded as absurd even by
+the most conscientious behaviourists; speech is
+universally admitted as a reasonable aspect of human
+behaviour.
+The kind of interplay that serves to establish verbal
+behaviour as meaningful in psychological research
+may be illustrated by.an example. This example deals
+with verbal conditioning, a technique in which the
+subject is presented with cards saying something like:
+D will go to town.
+Each card has a different sentence on it, and the
+subject has to read the sentence, making use of
+whichever personal pronoun he wishes. The experiment continues for some 20 trials or so, to see with
+what frequency the subject uses each pronoun. Then
+begins the conditioning trial; whenever the subject
+uses a preselected pronoun (e.g. 'They'), the experimenter nods, or says 'good', or makes some
+appropriate noise. Gradually the subject begins to
+use this pronoun more and more, and the increase in
+use of the conditioned pronoun is the score on the
+test. People differ greatly with respect to the degree of
+conditioning evidenced, and it was predicted, for
+reasons which will become apparent in a later chapter,
+that introverted people would respond better to the
+conditioning paradigm. Many studies have been
+published, some of which found introverts better,
+others extroverts, and others found no difference.
+These results can be reconciled if we go on to say
+that often the subject guesses what is going on; he
+acquires 'awareness' of the contingencies involved in
+the experiment. Now the prediction only applies to
+unaware subjects; extroverts may condition poorly,
+but when aware of what is going on may be more
+likely than introverts to wish to please the experimenter, and hence play the game for him. If this were
+so, we would expect that with subjects lacking in
+'awareness', introverts would condition better; in
+subjects with 'awareness', extroverts might give a
+better performance. When subjects were verbally
+interrogated about what they thought had been
+happening in the experiment, they could be grouped
+into 'aware' and 'unaware', and indeed personality
+correlated with performance in contradictory ways in
+the two groups, as expected. Now the verbal statements of 'awareness' might be considered analogous
+to introspection, but in this case we have weighty
+external evidence to reassure us that the verbal statement is in fact true; it gives evidence of knowledge,
+and fits in with a larger theoretical system which
+predicts what should happen. As far as the argument
+90
+80
+Penile 70
+plethysmo·
+graph 60
+50
+Increase 40
+in Volume
+(arbitrary 30
+units) 20
+10
+Breast Cunni- '69'
+woman fondling lingus
+Kissing Intercourse Fellatio
+and
+cuddling
+Figure 1.1 Increase in size of penis as a function of
+content of imagery
+goes, therefore, we may accept verbal statements in
+this situation, and for this purpose. Not to do so
+would deprive us of important information which
+could not be gained in any other way. Refusal of
+relevant and important evidence would be a sign of
+rigidity and bias.
+Even such apparently nebulous terms as 'imagery'
+can be tied down securely to observable facts. Let us
+suppose that I tell you to imagine certain situations,
+say of a sexual nature. You tell me what you see in
+your imagination. Can a behaviourist accept this as
+evidence? Figure 1.1 shows the results of an experiment in which the subject was instructed to imagine,
+each for 20 seconds, the seven items listed on the
+abscissa. On the ordinate are given figures taken from
+a penis plethysmograph. which is an instrument which
+measures with considerable accuracy the size of his
+penis. It will be seen that the more erotic the image,
+the greater the enlargement of the penis. We may
+accept the reality of the internal process because it is
+tied down securely to observable and measurable
+events preceding (instructions) and following (penis
+plethysmograph) the unobservable event.
+THE DEFINITION OF PSYCHOLOGY
+We have so far concentrated on methods of investigation and on the usefulness of the behaviouristic
+doctrine; we are still far away from being able to
+define psychology. To say that it deals with
+human behaviour is fine and accurate as far as it
+goes; however, there are other sciences or disciplines
+which also claim to deal with human behavioursociology, physiology, anthropology, economics,
+genetics and many others might be mentioned here.
+How can we demarcate the realm of psychology, and
+indicate in which way it is differentiated from these
+other disciplines? The first answer might be that it
+cannot be done at all; academic subjects are in large
+part artefacts of the curriculum--divisions which are
+Genetics
+Physiology
+Neurology
+Anatomy
+Biochemistry
+Pharmacology
+etc.
+Biological·
+Sciences
+History
+Sociology
+Anthropology
+Economics
+Sociometry
+Social
+Disciplines
+etc
+Figure 1.2 The position of psychology as a link between
+the biological and social sciences
+Psychology as a bio-social science 5
+made for the convenience of administrators, and of
+students who cannot be expected to learn more than a
+given, limited amount of material in their three or four
+years at university. There is no absolute line of
+demarcation between psychology and physiology, or
+psychology and sociology, such that we might say:
+'This investigation is clearly physiology, not psychology', or: 'That study falls within the purview of
+psychology, not sociology.' But having said this, there
+is a way in which we can differentiate these various
+subjects, in principle, at least; there will still be
+overlap, but the main outlines of the various subjects
+may become clearer.
+Consider Figure 1.2. It delineates two large groups
+of subjects. On the left, we have a sample of the
+biological sciences-genetics, physiology, neurology,
+anatomy, biochemistry, pharmacology, etc. On the
+right, we have a sample of the social disciplineshistory, sociology, anthropology, economics, sociometry, etc. Like a circus rider skilfully straddling
+two horses (or like a man sitting down between two
+chairs!) psychology clearly partakes of both groups of
+sciences. This may be an obvious statement to make,
+but it has tremendous consequences: psychology is
+both a biological and a social science. The ramifications of this statement will be discussed in what
+follows; here let us merely note that clearly physiology is a biological science, sociology a social one;
+these and the other disciplines mentioned do not
+meet, except where they are related through some
+psychological content or theory. This is the
+importance of psychology and this is the reason for
+its existence: psychology alone makes the attempt to
+tie together these different and heterogeneous groups
+of subjects and mediate between them. Is this a
+sensible thing to do, and why should anyone try to
+carry out such a difficult and perhaps impossible
+task?
+Physiology deals with segmental processes; it is
+concerned with minutiae of reflex activity, carefully
+studying one reflex at a time, or with specific organ
+systems of one kind or another. Such segmental
+studies are of the utmost importance, but they do not
+tell us what happens when these segments are
+activated in vivo as part of a larger whole--man.
+Take a particular example. During the first world war,
+there was much interest in night blindness; obviously
+a sentry who cannot see in the dark would be a
+danger to himself and his whole company, and it was
+clearly important to know the likely number of nightblind soldiers. Physiologists had studied the conditions giving rise to night-blindness, and gave a
+reassuring answer-given that enough carrots were
+available, only a very small number of people were
+likely to be affected. In actual combat, it soon became
+clear that the answer given was out by several
+thousand per cent; there were quite large numbers of
+night blind soldiers in all the armies involved in the
+6 8 asic processes
+gigantic struggle. The reason soon became obvious.
+The fine adjustments involved in focussing and seeing
+in the dark could easily be thrown out of gear by
+fear; neurotic soldiers suffered from night blindness in
+a functional sense. There was nothing physiologically
+wrong with their physical equipment, but the upsurge
+of autonomic excitement which was produced by
+situations of real or imaginary danger made it
+impossible for them to make use of their equipment.
+The physiologist could say, quite truthfully, that he
+had been asked quite a different question, and that
+his answer had been correct. This was no consolation
+to those who had originally asked the question; they
+were concerned with the interaction of physiological
+systems, i.e. with a psychological problem. This is not
+to say that psychology is better (or worse) than
+physiology; it is simply different. It looks upon the
+physiological equipment of man from the point of
+view of use in actual life, and this use in actual life
+usually implies certain social connotations. The
+physiologist quite rightly declines to leave his laboratory and take into account variables he has not been
+trained to deal with; the psychologist has no choice
+but to study these variables and try to integrate them
+with whatever he may learn from the physiologist.
+The sociologist, on the other hand, is concerned
+entirely with social variables; such institutions as
+marriage, government and criminality are his concern.
+But of course these institutions are run by individuals,
+by persons, and it takes a psychologist to undertake
+the study of persons in institutions. Similarly for
+economics; economics lays down general laws
+according to which behaviour should function, but
+the psychologist knows only too well that people
+don't usually do what they are supposed to do--such
+as buy in the cheapest market, and sell in the dearest.
+Psychological experiments have shown that when
+identical goods are sold at di..tTerent prices, many
+people pay two or three times the lowest price, even
+though the choice is right in front of their noses.
+Economics may be able to formulate laws covering
+rational behaviour, but psychologists have found
+time and time again that human behaviour is only
+intermittently rational. Hence on the social side too,
+psychology is needed to mediate the general and
+abstract laws of sociology, economics, and the other
+'dismal sciences' which throng the right side of our
+diagram.
+Psychologists thus have the duty to look at man as
+a whole, and to take into account both his biological
+nature and the social context within which he alone
+can exist. This is not an easy task, and it is hardly
+to be wondered at that many psychologists have
+concentrated on isolated aspects of the job. There are
+physiological psychologists who are often difficult to
+distinguish from physiologists; there are social psychologists equally difficult to distinguish from
+sociologists. Even among behaviourists interested in
+quite general experimental work that would place
+them somewhere at the centre of our diagram, there
+are often to be found odd notions such as that of the
+'empty organism'-a doctrine according to which
+physiology is too backward to tell us anything of
+interest about psychological processes, or even that
+physiology is never likely to be able to make an
+important contribution to psychology. In line with
+such thinking, psychologists must 'go it alone' and
+elaborate functional relations between stimuli and
+responses; these, it is declared, are the fundamental
+bits and pieces out of which a proper science will
+eventually be built.
+THE STIMULUS-RESPONSE SYSTEM
+For many years this view, enshrined in the symbolism
+of the 'S-R bond', was to be found in every
+introductory textbook, and it must be said that the
+notion underlying it had an intuitive appeal to many
+students. If you can discover which stimuli produce
+which responses, or if you can investigate the laws
+according to which new S-R bonds are fashioned, by
+learning or conditioning, then you can manipulate
+responses by suitably manipulating stimuli. This stress
+on manipulation has always been strongly associated
+with behaviourism; note J. B. Watson's well-known
+saying: 'Psychology as the behaviourist views it is a
+purely objective experimental branch of natural
+science. Its theoretical goal is the prediction and
+control of behaviour.' Can we indeed obtain 'control'
+over behaviour by simply manipulating stimuli.? As
+we shall see, this whole notion is so grossly oversimplified that scientific investigation and experimentation has suffered greatly by the restrictions
+imposed by it.
+Behaviourists often argued that their model was
+in line with the models adopted by workers in the
+'hard' sciences. A physicist may study the expansion
+of metals as a function of heat, or an astronomer the
+Doppler effect (red-shift) as a function of the distance
+of stellar objects. True, some form of functionalism
+is implied in the typical equation written by scientists, a=(f)b. However, there is something missing in
+this whole argument. Different metals expand
+differently with heat, and in order to get any meaningful answer we have to specify the precise nature of
+the metal (or alloy) we are using. Similarly, different
+organisms respond differently to different stimuli, and
+unless we take this into account we will be quite
+unable to make any meaningful predictions-let alone
+exert any kind of control! Accordingly, we may have
+to expand our formula to read: S-O-R; the stimulus
+strikes the organism, interacts with the innate and
+acquired properties of the organism, and the organism
+then emits a response. Why did this obvious point
+take so long to penetrate, and why is it still honoured
+more in the breach than in the observance?
+The answer must be speculative, but undoubtedly
+there is a good historical reason. Biological workers
+interested in psychology tended to have a strongly
+genetic approach to the subject; often human
+behaviour was assumed to be generated by 'instincts'
+which dictated precisely what type of response should
+be made to different types of stimuli. Opponents of
+this doctrine had little difficulty in showing that it was
+not of much use in psychology; accounting for
+sociable behaviour in terms of an 'instinct' of sociability was clearly a circular process which did not
+'explain' anything. The -doctrine of instincts fell into
+disrepute, and a whole-hogging environmentalism
+took over which allied itself with the doctrine of the
+'empty organism', to produce modern behaviourism
+which still often echoes Watson's proud boast that if
+you gave him control of the environment, then he
+could make young children into anything he chose,
+from genius to beggarman. Alas, things are not as
+simple as that; the organism arrives on the scene
+fully fitted out with genes and chromosomes which
+determine its capacities and emotional reactivity, its
+abilities and personality, to a very marked degree-as
+we shall see in later chapters. A simple-minded disbelief in genetics has always characterised
+manipulative societies, such as the U.S.A. and the
+U.S.S.R.; genetics seems to set limits to the power of
+the state to transform itself and its citizens into some
+Utopian ideal, and a tabula rasa hypothesis seems
+much more acceptable. The impressive empirical
+work of ethologists, studying different animal species
+in great detail in their every-day lives, has revived the
+doctrine of instincts, although in a much more
+sophisticated form, and altogether the pendulum is
+swinging back towards a position less eccentrically
+emphasising only the one side of the heredity-environment interaction equation. (Some behaviourists, rather
+reluctantly, have recognised the importance of the
+organism by postulating that 8-R rehitions are
+influenced to some extent by the 'history of reinforcement' of the organism, i.e. by the rewards and
+punishments it received in the past; this purely
+environmental view of 0 has to be supplemented by
+recognition of the genetic determinants of behaviour.)
+A more complete chain of events might look like
+Figure 1.3, which takes into account the most important aspects of human behaviour. We begin with
+the stimulus, recognising that there is an important
+difference between physical stimuli (Sp) and social
+stimuli (Ss), and that there may also be internal
+stimuli (Sr) which emanate from the person's viscera.
+Tliese stimuli strike the organism, which is in a state
+of readiness to react to them in certain ways,
+determined partly by genetic (G), partly by environmental (E) antecedents. The organism then emits
+responses, which may be mediated by the autonomic
+nervous system, i.e. are emotional in nature (RA),
+which may be cognitive, i.e. thoughts or ideas (Rd. or
+which may be motor movements (RM). These
+Psychology as a bio-social science 7
+responses finally lead to an effector state (E±) which
+may be either pleasant (indicated by the + sign) or
+unpleasant (indicated by the - sign). The pleasantness
+or otherwise of this state constitutes the positive. or
+negative reinforcement produaed by the whole chain
+of events; this in turn modifies the organism (through
+5S~
+5, --
+5p/
+G E
+Figure 1.3 A model of behaviour
+learning and conditioning) in such a way that in future
+it will seek or avoid the stimuli which herald the final
+effector state. We have come a long way from the
+simple 8-R formula, and many psychologists still
+yearn for the relative simplicity of that formula;
+however, the evidence for its inadequacy is too strong
+to allow us to return to it.
+Different groups of psychologists concern themselves with different parts of the larger formula given
+in Figure 1.3. For instance 0 is the field studied by
+behavioural geneticists; Sp-O is studied by workers in
+the traditional field of perception. Ss-O constitutes
+the relatively new field of social perception; where
+traditional workers would use lights and sounds
+carrying no meaning as their stimuli, workers in this
+new field would be concerned with facts such as that
+poor youngsters overestimate the size of high-value
+coins, or that college students take longer to recognise
+words which refer to unpleasant or pornographic
+items ('perceptual defence'). Sp-RA would be a field of
+study in which Pavlovian conditioning would be
+characteristic; Sp-RM would be concerned with
+operant conditioning, as we shall see later on in the
+book. E ± would be concerned with motivation. It will
+be obvious then that while in every behavioural act
+the whole chain is involved, it may be necessary for experimental purposes to study one particular aspect or
+connection within the chain, and to try to 'hold constant' the remainder--however difficult that may be.
+THE INTERACTION OF SOCIAL AND
+BIOLOGICAL FACTORS
+The fact that human beings are at one and the same
+time biological organisms and the products of a social
+environment means that we are inevitably concerned,
+at all times, with the paradigm of interaction. Biological and social factors and influences are
+constantly interacting with each other, and no attempt
+to understand psychology can possibly succeed which
+does not bear this in mind. There are in psychology
+8 Basic processes
+s.ociotropes and biotropes, people who stress one or
+the other side alone, and at best give lip service to the
+other; such men are dangerous. The danger involved
+in such one-sided enthusiasm is simply that we try to
+impose on nature our prejudices, rather than allow
+nature to teach us what the facts are; scientists have
+to have their share of humility and take their cue from
+nature.
+The danger is particularly apparent when. the
+psychological problems in question have social and
+political aspects. In the early days of the century, for
+instance, many psychologists held a strongly genetic
+position which ascribed all (or nearly all) differences
+in intelligence, to take but one example, to heredity,
+including the large differences in I.Q. observed
+between white and black Americans; from this
+allegedly scientific basis strongly racist conclusions
+were then drawn. The science of genetics gave no
+support to these assumptions, and of course the racist
+conclusions would in any case have had no scientific
+support, being purely political in nature. Later on,
+largely as a reaction, many psychologists held a
+similarly extreme view emphasising environment and
+stating as a fact that all races had innately identical
+intelligence, with the observed differences being due to
+environmental deprivations of various kinds. These
+beliefs were based on no firmer evidence than those
+rejected; the wish, in both cases, was the father of the
+child.
+Both heredity and environment clearly play their
+part in observable, phenotypic behaviour; such an
+interactionist doctrine suggests the importance, not of
+emphasising one or the other, but of discovering with
+some precision the relative contributions of the two
+factors in any particular situation. This requires
+complex and difficult experimental investigations, and
+the construction of ger,etic models which are testable
+against the facts unearthed. Much is now known
+about the relative part played by heredity and environment in the causation of I.Q. differences, at least
+as far as people living in the U.S.A., the U.K., and the
+European continent are concerned; when it comes to
+racial differences no results are available which carry
+similar conviction.
+One particular area of dispute between sociotropes
+and biotropes has been the relevance of animal work.
+Ever since Pavlov used the conditioning paradigm
+derived from his work with cats and rats, psychologists have argued about the relevance of the results
+to human learning and conditioning. The arguments
+against 'rat psychology' are quite strong. It is said
+that species differences are much too large to enable
+us to argue from one species to another, least of all
+from such lowly animals as rats to animals having the
+power of speech, like man. There may be superficial
+similarities between rats running mazes and children
+learning some simple motor habits, but these do not
+extend to specifically human learning, which involves
+speech, thought and other human attributes not
+found in rats. Similarly, the motivating conditions of
+the two species are quite different-rats are. usually
+motivated in the laboratory by hunger and thirst,
+more rarely by sex, and most frequently by electric
+shock, while motivations for humans, at least those
+living in affluent Western countries, tend on the whole
+to be more subtle and less obvious. It may make
+sense to talk about 'drive reduction' theories of motivation in hungry, thirsty, or otherwise deprived rats; it
+may be difficult to see how relevant this is to human
+beings living in stable societies. If we are interested
+in the abilities, motivations, etc. which made
+Shakespeare write his sonnets, or which made
+Newton evolve his theory of gravitation, we are
+unlikely to get too much help from rats running
+mazes, or avoidin~ shock in a shuttle box, or even
+pressing levers in a Skinner box. For these and many
+other obvious reasons, rat psychology is in bad
+repute with many people, and students often dismiss it
+contemptuously as useless. This is probably a onesided point of view.
+Biologically, rats share with us certain very
+impressive similarities. They possess, like us, a central
+nervous system, issuing in a cortex; they have an
+autonomic system which mediates emotional expression; they have sense organs very similar to ours.
+They respond to physical stimuli much as we do; they
+respond to drugs in ways not too dissimilar to
+ourselves. They can learn, and they become conditioned, in ways which are qualitatively and
+quantitatively similar, in considerable detail, to our
+ways. To stress the differences, to the exclusion of the
+similarities, is one-sided, just as it would be one-sided
+to look at the similarities alone and conclude that rats
+were perfect replicas of humans. The issue simply
+cannot be resolved by a priori statements, or in terms
+of common sense assessment; it boils down to a
+precise evaluation of those areas where rats can be
+used with some degree of confidence as analogues of
+human beings, and those where the differences are too
+great to make this useful. Consider a few examples to
+illustrate the possible usefulness of animal analogues
+in this context.
+THE RELEVANCE OF ANIMAL
+EXPERIMENTS
+There is a well-known behaviour pattern among
+rats called the 'Columbus effect'. A male rat will tire
+of being with the same female rat for any length of
+time, and his number of mountings and intromissions
+will decline. Furnish him with a new partner and his
+vigour will return. This parallels a well-documented
+pattern in human behaviour; number of copulations
+in marriage declines steeply during the first year, and
+then declines more gradually; this gradual decline is
+probably due to increasing age, but the precipitate
+decline during the first year is very similar to the
+Columbus effect. Now it is of course perfectly true to
+argue that men are not rats; human behaviour is not
+governed exclusively (as is rat behaviour) by biological mechanisms. The institution of marriage, the
+persistence of love, the mutual usefulness of members
+of a pair bond are social influences which may
+counteract the biological determination of the
+Columbus effect. It would be as unrealistic (and hence
+as unscientific) to disregard the social forces entering
+the equation, as it would be to disregard the biological
+ones. Work with rats may clarify the precise nature of
+the latter; to that degree it is useful. Work with rats
+will tell us little about the former; to that extent it can
+be misleading.
+As another example, take Pavlov's work on conditioning with dogs (Pavlov, 1927). He carefully and
+precisely worked out the main laws according to
+which conditioning takes place, and these laws have
+been shown to apply in very much the same manner
+to human beings. It is much easier to work with
+dogs, and our knowledge has increased enormously
+due to Pavlov's extensive studies. Now obviously it is
+also necessary to demonstrate that what is true of
+dogs is also true of humans; consequently a great deal
+of experimental work has also been done with
+humans. This work was inspired by Pavlov's findings,
+and directed in every particular by the theories and
+laws he had based on his discoveries. Pavlovian
+conditioning plays a vital part in human behaviour; it
+lies at the basis of neurotic behaviour, to take but one
+example. But of course, here also, the animal work
+only gives us the biological side of things; even in
+Pavlovian conditioning there is a social side to
+consider, and this cannot be discovered from animal
+work alone. Thus it would be one-sided and unscientific to reject Pavlov's findings because they
+were based on animal work, or to accept them
+uncritically as applying without change to human
+beings. We can learn from animals, but we cannot
+learn all there is to be known from animals.
+As a third example, consider the important work of
+J. Masserman (1943) with cats. He would teach cats
+to get food from a box; next he would electrify the
+box so that the cats would get a shock when touching
+it. This is a situation of approach-avoidance conflict;
+the hungry cats have a strong drive (hunger) which
+propels them towards the box, but they also have an
+aversive drive (pain avoidance) which pushes them in
+the opposite direction, away from the box. This
+approach-avoidance situation has been studied in
+great detail by N. Miller (see Gray, 1971), whose
+work will be discussed in some detail later in this
+book; it is very conducive to the genesis of neurotic
+behaviour (Eysenck, 1974). This was observable in
+Masserman's cats; it has also been found true in
+human behaviour. Again, it is of course true that
+human and cat behaviour are not identical; the
+conflicts generated by approach-avoidance situations
+Psychology as a biD-social science 9
+are different in the two cases, being less closely bound
+to biological stimuli (food, shock) in humans. Nevertheless, the similarities are considerable; they enable
+us to achieve a much better understanding of neurosis.
+As has been well said:
+'Masserman the cat man,
+Makes cats neurotic;
+Are cats and humans,
+Really asymptotic?
+Can we really take over general laws largely based
+on animal work, and apply them to human problems?
+Consider a particular problem, that of children who
+bang their heads. This is a terribly dangerous
+practice; children have been known to kill themselves,
+or to detach their retinae by the banging and become
+blind. What can be done about it? Physicians used to
+advise strapping the children to a chair; this certainly
+prevents them from banging their heads, but it is
+hardly a procedure which can be used for any length
+of time, and is really a counsel of despair. Psychoanalysts advised love and affection; whenever the
+child started to bang his head, mothers were told to
+go and hug and kiss the child. This is a humane
+method, but unfortunately a counter-productive one;
+the children banged their heads more and more!
+Readers might like to stop here and think how they
+would deal with this problem, using common sense as
+a guide; in the next paragraph we will then go on to
+discuss suggestions emanating from animal work.
+Towards the turn of the century, E. L. Thorndike
+announced the Law of Effect; this states, essentially,
+that animals (including people) will tend to repeat
+those activities and actions which in the past have led
+to pleasant, acceptable consequences, and to shun
+those activities and actions which in the past have led
+to unpleasant, noxious consequences. B. F. Skinner,
+another American psychologist, took up this notion
+half a century later and based his law of reinforcement on extensive work with rats and pigeons;
+positive reinforcement (a technical name for reward)
+led to repetition, negative reinforcement to abandonment of the particular activities preceding either. This
+general sort of approach (which is similar to the
+philosophical doctrine of hedonism, but goes beyond
+it in many ways, and is much more specific in its
+recommendations) leads to a quite clear-cut approach
+to our head-bangers. Whenever the child starts to
+bang his head, the mother is instructed to pick him up
+and take him to a small room; there he is locked in
+for 10 minutes, all alone. The mother shows no
+emotion, and neither does she scold the child when
+he is let out again after his period of 'detention' is up.
+This 'time out' procedure provides negative reinforcement for the action preceding it (i.e. the head
+banging), just as hugging and kissing the child, in
+accordance with the psychoanalytic recommendation, provides positive reinforcement. No wonder
+lOB asic processes
+the psychoanalytic method makes things worse; the
+child is actually being rewarded for misbehaving! The
+behaviouristic method works extremely well, and
+quickly; most children are cured within a matter of
+weeks. The cure is permanent, and does not lead to
+'symptom substitution', as many psychiatrists feared;
+in other words, no alternative symptoms appear
+when the head banging is stopped. With a small
+group of children something stronger than 'time out'
+is needed; a slight electric shock, administered whenever the head banging starts, followed by 'time out',
+may be required.
+This example of 'behaviour therapy' (which will be
+discussed in much more detail in a later chapter) may
+deserve some more detailed study. In the first place, it
+shows that general laws derived from animal work
+can be applied with considerable success to human
+behaviour. At the same time, these laws can be used
+to explain why other types of treatment (such as
+psychoanalytic treatment) fail to work. Clearly, ra.s
+and humans are not so distant on the evolutionary
+scale that certain uniformities cannot be discovered
+and used to cross the species boundaries. The method
+of treatment so discovered may seem obvious once
+the suggestion has been made, but for many years
+common sense, medical ingenuity, and psychoanalytic
+insight all failed miserably in their efforts to find a
+solution to this particular problem. In the same way,
+it seems obvious to us that the earth circles round the
+sun, and that apples and planets obey the law of
+gravitation; these self-evident truths were far from
+self-evident 500 years ago, and required great scientific acumen and insight to establish. The laws of
+positive and negative reinforcement may also seem
+obvious when stated so broadly; they are of course
+much more precise and detailed than anything we
+have stated so far, and go well beyond common
+sense, or philosophical hedonism.
+PROBLEMS OF APPLIED PSYCHOLOGY
+The example shows that behaviouristic methods,
+derived from animal studies, can work; there are
+many other examples which will be found in later
+pages of this book. It used to be quite popular to deny
+that such methods could ever work; this objection has
+not survived the many obvious successes of behaviour
+therapy. Now it is more popular to say that these
+methods are simply ways of inducing conformity in
+people, and that manipulation of other persons, as is
+implied in all behaviouristic methods, is inherently
+wrong and inhumane. This type of objection is more
+difficult to answer because there is an element of truth
+in it. Nevertheless, we believe it to be mistaken. Let us
+note first of all that from birth to the grave man
+attempts to manipulate others, and is in turn manipulated by them. The baby is 'manipulated' to suck at
+the mother's breast, and later on to take solid food
+and come off the mother's breast. The child is
+'manipulated' to learn reading and writing, and all the
+other things which he needs in order to live happily in
+society. The adolescent is 'manipulated' to take a job,
+earn a living, and maintain a family. The girl is
+'manipulated' into bed by her boyfriend. The voter
+is 'manipulated' to give his vote to politicians whose
+concern for his welfare is more verbal than real, and
+more apparent before than after the election. We are
+all 'manipulated' by advertisements to buy this rather
+than that. Opponents of racial discrimination search
+for methods to 'manipulate' racists successfully.
+Sometimes manipulation is disguised as appeal to
+reason, but this is not usually a very convincing mask.
+Wisdom begins with the realisation that all social
+living implies manipulation of one person by another;
+manipulation is the essence of social living-only the
+hermit is free from it.
+Equally important as the fact of manipulation is
+the motive for manipulation. It is idle to say that all
+manipulation is bad; without it we would still be
+animals living in a state of nature-our lives being
+nasty, brutish, and short. It is easy to say: 'Do your
+thing'; the question is of course whether 'your thing'
+is completely innate (which seems extremely unlikely),
+or whether it is due to various social inftuenceswhich imply 'manipulation'. Some kinds of manipulation are obviously of help to the person concerned;
+the baby would starve if his mother did not orient his
+mouth correctly to the breast, and the head banger
+might kill himself if we did not advise the mother
+correctly. It is not reasonable to say: 'Well, let him
+kill himself if that is what he wants'. The child is not
+able to foresee the consequences of his actions and
+certainly does not wish to kill himself. Or consider
+the patient who comes to the behaviour therapist with
+acute phobic fears and generalised anxieties. He is
+driven to distraction by his troubles and may be near
+suicide; if methods of 'manipulation' exist which can
+cure him and restore him to mental health, and if he is
+only too desirous of being 'manipulated' in this
+fashion, would it not be inhumane to withhold
+treatment? Again, the grown man often thanks those
+who in his youth 'manipulated' him in such a way that
+he learned to read, thus opening up to him a vast new
+world of delight and happiness; had he been left
+alone, without any pressure at all, he might still be
+illiterate. Children, as they grow up, often reproach
+their laissez-faire parents, saying: 'Why didn't you
+make me do that?' when some deficit becomes
+apparent in their education or upbringing, which
+could easily have been dealt with earlier on.
+On the other hand, manipulation can obviously
+also be bad, in the sense that it is used for the interest
+of the manipulator, rather than of the person manipulated. It seems hardly necessary to give examples;
+advertising which makes use of natural fears of
+death, disease, social isolation and other negative
+feelings for the purpose of selling useless and possibly
+dangerous drugs, creams, etc., is too well-known to all
+of us. More interesting are those cases where a good
+case could be made either way. Consider homosexuality. Many homosexuals come to the therapist
+asking for treatment; they do not wish to live out their
+lives in their present state. Assuming that aversion
+therapy (which will be discussed later on) is able to
+make them heterosexual, is this a case of 'bad'
+manipulation? The question seems to hinge on
+whether or not the patient really and truly wishes to
+be changed, or whether he is merely reacting to social
+prompting-by family, a court order, or some other
+agency. In the former case there seems to be no
+reason to consider the case in a different category
+from the patient suffering from anxiety; there may be
+difficulties in being sure of one's facts, but in principle
+we would not seem to have the right to withhold
+treatment from a patient who is suffering and wishes
+to be cured. In the latter case, we may take one of
+two positions. We may declare that social pressure is
+immoral, and that the therapist should refuse to
+undertake the treatment. Or we may take the view
+that the therapist as therapist can do nothing to alter
+social pressures, but must leave the decision to the
+patient; if the patient decides that under the circumstances he would prefer to opt for treatment, then it is
+not up to the therapist to refuse to implement this
+decision. If the patient is clearly unwilling, but society
+is insistent, then the therapist of course has an ethical
+duty to the patient, rather than to society; under no
+circumstances would he be justified in 'manipulating' the patient against his will.
+In all this, behaviourists do not encounter difficulties which are in any way different from those
+encountered by psychiatrists, psychoanalysts, social
+workers, and many other people concerned with
+social treatment of any kind. The principles of action
+suggested above are no different from those which
+might be accepted by other workers in this field;
+behaviouristic methods do not differ in principle from
+those of other groups. Nor can we pretend that
+there is always a 'true' answer to the problems thrown
+up by society; there is often room for genuine
+disagreement among well-meaning persons desperately trying to do the right thing. The behaviourist
+psychologist, any more than the psychoanalyst, or the
+psychiatrist, is not a moral philosopher by training; he
+is just as likely to make mistakes as the next person.
+Notwithstanding this obvious human fallibility, it
+should not be assumed that he is any less well-meaning, or any less conscious of his ethical duties, than
+other workers in this field. 

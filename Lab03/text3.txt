@@ -1,0 +1,1986 @@
+Hallucinations
+Little is known about hallucinations, but it is tempting
+to suggest that they result from the imposition of
+patterns and meaning on random inputs. Thus they
+tend to occur when people are deliberately put in
+minimally structured environments as in sensory
+deprivation experiments. It has also been suggested
+that drugs such as LSD produce entirely novel
+sensory experiences on which the observer tries to
+impose meaning. Auditory hallucinations found in
+alcohol withdrawal have been found to result from
+attempts to impose meaning on noises produced by a
+pathological state of the middle ear (Sarayay and
+Pardes, 1967).
+However, the important dimension of hallucinations
+is the extent to which the observer believes in their
+reality, and this aspect is somewhat removed from the
+topic of perception.
+SOCIAL PERCEPTION AND PREJUDICE
+The economy achieved by perceptual processes
+depends on having expectations about the environment. When this principle is applied to the perception
+of people it seems synonymous with prejudice. To
+26 Basic processes
+treat every individual a~ a unique entity would put an
+impossible load on information processing and
+memory. We assum:e that certain verbal and nonverbal cues are important for communication and
+understanding and ignore the rest. Which particular
+cues we select for attention may vary on the basis of
+expectations about race, sex, class and other, finer
+classifications. Clearly if our expectations are false
+and we pay attention to the wrong cues communication will be difficult.
+These expectancies are not Quite the same as those
+associated with terms such as race prejudice and clas!>
+prejudice. The latter prejudices must involve largely
+negative expectations about the behaviour of the
+individuals or groups being judged. That there is a
+close relation between such attitudes and perception is
+demonstrated by lln experiment of Allport and Kramer
+(1946). These workers found that people with strong
+anti-Semitic prejudice were able to distinguish Jews
+from non-Jews more accurately than unprejudiced
+people. Presumably anti-Semites consider the division
+of people into Jews and non-Jews of vital importance
+in their world. They therefore pay attention to the
+cues indicating Jewishness (whatever they may be)
+and ignore other features. Another characteristic of
+the person having race prejudice is that he must be
+able to classify every person he is in contact with as
+either a member of the 'good' race or of the 'bad'
+race. Such a strict division is objectively impossible
+References
+Allport, G. W. and Kramer, B. M. (1946). Some roots of
+prejudice. J. Psychol., 22, 9-39
+Bannister, D. and Fransella, F. (1966). A grid test of
+schizophrenic thought disorder. Brit. J. Soc. Clin. Psychol., 5, 95-102
+Blakemore, C. and Cooper, G. F. (1970): Development of
+the brain depends on the visual environment. Nature
+(London), 228, 477-478
+Borges, J. L. (1964). Funes the Memorious. In: Labyrinths
+(New York: New Directions)
+Borges, J. L. and Casares, A. B. (1971). Extraordinary
+Tales (New York: Herder and Herder)
+Bower, T. R. G. (1966). The visual world of infants. Sci.
+Amer., 215, 6, 80-92
+Broadbent, D. E. (1958). Perception and Communication
+(Oxford: Pergamon Press)
+Bruner, J. S. and Postman, L. J. (1949). On the perception
+of incongruity: a paradigm. J. Person .. 18, 206-223
+Cherry, E. C. (1957). On Human Communication (London:
+Chapman & Hall)
+Clark. W. C. (1969). Sensory decision theory analysis of the
+placebo effect on the criteria for pain and thermal sensitivity (ff).J. Abn. Psychol., 74, 363-371
+Douglas, M. (1973). Rules and Meanings (London: Penguin)
+Frith, U. (1970). Studies in pattern detection in normal and
+autistic children: I. Immediate recall of auditory sequences. J. Abnorm. Psychol., 76,412-420
+Gibson, J. J. (1966). The Senses considered as Perceptual
+Systems (Boston: Houghton-Mifflin)
+and so attempts to apply it involve the denial of the
+existence of people on the boundaries of the categories.
+The occasionally ludicrous state of affairs that such
+denial can lead to is seen in the apartheid system of
+South Africa, by which the Japanese are classified as
+white, and the Chinese as coloured.
+The denial of objects at the boundaries of welldefined classes is a feature of normal perception, for
+by assuming that objects fall into discrete groups we
+have an economic and convenient description of the
+world. Bruner and Postman (1949) briefly presented
+playing cards to people. Among the real cards were
+some with black hearts and red spades. The subjects
+failed to notice these, reporting that they were normal
+cards. Sometimes the denial was less complete and
+subjects reported 'purple' spades and hearts.
+My theme in this chapter has been that perception
+is a process whereby we construct economic descriptions and models of the environment. This is done by
+'discovering' relationships and patterns in the environment. The question as to whether these patterns
+actually exist in the world probably has no meaning.
+All that is required is that each person's model of the
+world (composed of his expectations and the patterns
+he sees) should be similar to the models of the people
+he comes into contact with. Thus necessarily our
+perception of the world is very much determined by
+our culture and our society (Douglas, 1973).
+Grodin, M. and Brown, D. R. (1967). Multivariate stimulus
+processing by normal and paranoid schizophrenic subjects. Psychonomic Sci., 8, 525-526
+Held, R. (1965). Plasticity in sensory-motor systems. Sci.
+Amer., 213, 84-94
+Hermelin, B. and O'Connor, N. (1967). Remembering of
+words by psychotic and subnormal children. Brit. J.
+Psychol., 58, 213-218
+Hochberg, J. E. and McAllister, E. (1953). A quantitative
+approach to figural 'goodness'. J. Exp. Psychol., 46,
+361-364
+Hubel, D. H. (1963). The visual cortex of the brain. Sci.
+Amer., 209, 5, 54-62
+Julesz, B. (1965). Texture and visual perception. Sci. Amer.,
+212,2,38-48
+KofIka, K. (1935). Principies of Gestalt Psychology (London: Kegan PaUl)
+Lawson, J. S., McGhie, A. and Chapman, J. (1964). Perception of speech in schizophrenia. Brit. J. Psychiat., 110,375-380
+Luria, A. R. (1969). The Mind of a Mnemonist (London:
+Jonathan Cape)
+Mackay, D. (1957). Moving visual images produced by
+regular stationary patterns. Nature (London), 180,
+849-850
+Milner, B. and Teuber, H.-L. (1968). Alteration of perception and memory in man. In: BehaviourBI Change
+(L. Weiskrantz, editor) (London: Harper & Row)
+Moray, N. (1959). Attention in dichotic listening: Effective
+cues and the influence of instructions. Quart. J. Exp.
+Psycho/., 11,56-60
+Mowbray, G. H. (1953). Simultaneous vision and audition:
+comprehension of prose passages with varying levels of
+difficulty. J. Exp. Psycho!., 46, 365-372
+O'Connor, N. and Hermelin, B. (1967). The selective visual
+attention of psychotic children.J. ChUdPsycho/. Psychiat.,
+10,259-274
+Restle, F. (1967). Grammatical analysis of the prediction of
+binary events. J. Verb. Learn. Verb. Behav., 6, 17-25
+Sarayay, S. M. and Pardes, H. (1967). Auditory elementary
+hallucinations in alcohol withdrawal psychosis. Arch.
+Gen. Psychiat., 16,652-658
+Shepard, R. N. (1963). Analysis of proximitics as a technique for the study of information processing in man.
+Human Factors, 5, 33-48
+Perception 27
+Silverman, G. (1972). The psycholinguistics of schizophrenic
+language. Psycho/. Med., 2, 254-259
+Tanner, W. P. Jr and Swets, J. A. (1954). A decision-making
+theory of visual detection. Psycho/. Rev., 61, 4D 1-409
+Treisman, A. M. (1961). Attention and Speech (Oxford
+University: D. Phil. Thesis)
+von Bekesy, G. (i 967). Sensory Inhibition (Princeton:
+Princeton Univ. Press)
+Yacorzynski, G. K. (1941). Perceptual principles involved in
+the disintegration of a configuration formed in predicting
+the occurrence of patterns selected by chance. J. Exp.
+Psycho/., 29,401-406
+Yarbus, A. L. (1967). Eye Movements and Vision (New
+York: Plenum Press)
+Yntema, D. B. and Trask, F. P. (1963). Recall as a search
+process. J. Verb. Learn. Verb. Behav., 2, 65-74
+Chapter 3
+EMOTIONS
+Irene D. Martin
+In the study of human emotions it is important that
+we distinguish carefully between the scientific observation of behaviour and the beliefs and faiths based on
+personal experience, however beguiling and convincing these may seem. Our ancestors could understand the mysterious existence of rocks, rivers,
+mountains, sun and stars by populating them with
+gods and spirits, whose purposes were similar to
+man's, and who were benign or hostile to him.
+Primitive animism formulated this hypothesis with
+complete credulity, filling nature with myth-figures
+which continue to engage us in our literature.
+Such a SUbjective interpretation is not limited to
+inanimate nature: it extends to all kinds of animal
+life. Virtues of persistence and generosity have been
+attributed to forms of animal life from spiders to
+chimpanzees. Our pets are seen as understanding and
+'knowing' our feelings. The cunning of Brer Rabbit,
+the homeliness of country mice, the wisdom of owls,
+form the entertaining and almost inescapable themes
+of nursery years.
+It would be hasty to assume that modern culture
+has really given up these subjective interpretations of
+nature. It is still remarkably easy to see the actions of
+people around us in terms of our own perception and
+feelings; and remarkably difficult to consider alternative and more objective evidence.
+Vocabulary of emotions
+Literally hundreds of words are in everyday use which
+describe the emotions. An exhaustive search of the
+literature has shown the range to be very wide and in
+fact so extensive that one may be unaware of the
+precise shades of meaning involved. Consider depression and allied feeling states: sadness, melancholy,
+low-spirits, unhappiness, despair, misery. The distinctions may be far from clear and we often tend to use
+them synonymously. Conversely, we speak of love of
+people, love of home, of country, of beauty, but these
+feelings are distinguishably different. We therefore
+need to ask such questions as: How meaningful are
+these distinctions? How do we come to label different
+emotions? Is it that they relate to different physiological states, or to the context in which we
+experience them?
+The evidence of the emotions
+To apply the term 'emotional' either to ourselves or to
+other people generally subsumes a complex set of
+observations. So far as others are concerned there is
+much evidence from overt behaviour. Facial expressions involving change in eyes, lips and muscles
+can produce quite a different visage which in extreme
+emotion we can judge fairly accurately. Voices alter
+in pitch and intensity. Overt activity may occur, either
+simple running or fighting or a range of more subtle
+postural and gestural signals.
+Another broad category of evidence comes from
+physiological change. This is one of the least disputed
+concomitants of many emotions. All writers, whether
+literary or scientific, have agreed on the observation
+of increased physiological activity: flushed face,
+accelerated heart rate, raised blood pressure, trembling and increased muscle tension, dilated pupils,
+shallow breathing, goose-flesh and visceral stirrings.
+A final category of great, but essentially private,
+significance is that of our own internal feelings and
+perceptions. How we judge ourselves to feel, the
+intensity and the quality, can be communicated to
+others only through words.
+These three broad categories are those to be considered and evaluated in any assessment of emotional
+states. To them a category of another kind must be
+added: the context or situation surrounding the individual, and which he judges to be provocative of particular types of feeling, whether of fear, anger or love.
+Distinguishing emotion from other states
+Before we distinguish among emotional states it is
+appropriate to consider how we distinguish the state
+of being emotional from other states. This raises the
+question of definition-whether we can specify that
+this state is 'emotional' and another state is not. In
+practice this has proved to be extremely difficult:
+outright emotions blend and blur with non-specific
+states of excitement, interest, arousal and involvement
+such as are experienced in activities like solving a
+puzzle, listening to a talk, engaging in conversation.
+In these states it can be shown that physiological
+activity is elevated: EEGs may show all the signs of
+arousal, there may be sweating, high heart rate,
+raised levels of muscle tension. Yet some of the
+components which would lead to a label of 'emotion'
+are missing. The individual with high physiological
+activation does not necessarily interpret this as
+'feeling emotional'; this interpretation would seem
+instead to relate to subjective appraisal of the
+situation, whether for example it is perceived as
+threatening and whether the individual feels able to
+cope.
+The transition from arousal to emotion can be
+illustrated in the behaviour of the young child and in
+playful, exploratory animals who will approach novel
+objects to examine them. This approach is cautious
+but does not seem to indicate fear; however, the
+dividing line between exploration and fearful behaviour is very fine, and the young child may
+suddenly run away screall}ing and in apparent terror
+if the object makes a sudden movement or noise.
+Presumably the evaluation of context as 'something
+to be explored' has shifted to 'something to be
+avoided'. Strictly speaking, we cannot say that his
+feelings have shifted from curiosity to fear because we
+have no access to internal states; the observations
+rest with external behaviour.
+Differentiating one emotionfrom another
+It follows from this that in observational studies of
+animals and children it is possible to differentiate
+types of behaviour which can be classified in terms of
+fighting, defence, feeding, exploring and so on, but it
+is not possible to differentiate types of emotion
+because part of the total pattern of valid emotional
+responding is subjective experience. Without this
+evidence we can only speak of emotional behaviour,
+and this falls short of the total concept of emotion. It
+might be the case that preverbal children and some
+species of animals experience something like adult
+emotion but this is very doubtful. It would imply that
+different emotions are innate and fixed in quality,
+whereas the argument to be presented is that a
+lengthy process of learning and differentiating internal
+states takes place throughout life, and that it is this
+process which leads to the diversity of adult subjective
+experience. That emotions are innate and fixed in
+quality is, however, a viewpoint which from time to
+time finds an exponent.
+One of the first attempts to specify and list different
+kinds of emotions was based on the then current
+instinct theories (McDougall, 1912). McDougall
+assumed a long list of instincts each with its own
+associated emotion that was believed to be innate,
+ready made to serve the instinct by providing the
+appropriate driving force. Such assumptions do not
+lend themselves to experimental verification. Another
+influential view was that different emotional states
+relate to a differential pattern of physiological activation. An attempt has been made to test this
+empirically, with results suggesting that fear and
+anger produce different cardiovascular patterns.
+However, the evidence is relatively slight and very few
+convincing studies have emerged, not surprisingly, for
+if emotion is expressed in the components- of the
+overt-motor, physiological and cognitive-verbal
+systems, the resulting response configuration could
+permit some very subtle permutations. It still remains
+Emotions 29
+a possibility that one day specific physiological
+patterns, specific cognitive patterns, and specific
+behavioural patterns, in association with given eliciting conditions, will be identified and shown to be
+organised in such a way as to clearly distinguish one
+emotional state from another (Lazarus, 1968).
+MEASUREMENT OF EMOTION
+1. Methods of assessing overt behaviour
+One of the most common though rather global
+methods is that of rating overt behaviour in terms of
+some general criterion, for example, anxiety, depression, affection, hostility. Teachers are often required
+to assess a child's degree of emotional disturbance,
+assertiveness, sociability or co-operativeness. This
+kind of general assessment presumably makes use of
+a compfex of observed items of behaviour, usually in
+a rather limited range of situations, and it involves
+complex judgements on the part of the rater. It is an
+occupation we all take part in, whether professionally
+or socially, and it is essential that anyone required to
+assess the behaviour of another person be aware of
+the factors which can influence the assessment. These
+have been described in detail by Eysenck (1969) and
+will be briefly mentioned here. They are:
+(i) Differential understanding of trait names. For
+example, do the terms persistence, kindness, anxious
+and depress«d mean the same to different judges?
+(ii) The Halo effect. Whether we like (or dislike)
+someone, admire or despise them, is likely to colour
+all the judgements made of their behaviour-we may
+unwittingly attribute all the virtues to our friends and
+vices to our enemies.
+(iii) Differences in rating ability. Persons who rate
+others may differ with respect to their ability to carry
+out this task.
+(iv) Influence of unconscious bias. Biases for or
+against certain traits in others may be deeply rooted
+in the personality organisation of the rater.
+(v) Influence of acquaintanceship. Contrary to
+common belief, relatively superficial knowledge seems
+to give better predictive as:curacy than more thorough
+knowledge.
+(vi) Raters' preconceptions. Kendell (1968) has
+shown how psychiatric ratings df clinical features of
+depression .are significantly affected by raters' preconceptions about the classification of depressive
+illnesses (whether there are two distinct entities or
+only one) in such a way as to conform with, and
+so confirm, these opinions.
+With so many factors influencing the rating it is not
+surprising that reliability between ratings, either made
+by the same person at different times or by different
+people on the same occasion, tends to be rather low.
+It also seems to be the case that self-ratings, e.g. of
+anxiety or depression, are not always highly concordant with ratings by observers: we do not always see
+ourselves as others see us.
+30 Basic processes
+The judgement of whether a person or child is
+'affectionate' or co-operative is obviously a highly
+complicated one and limited to the samples of
+behaviour which we are able to observe. It is simpler
+to measure more specific components of behaviour
+such as smiling, amount of time spent in playing,
+crying, vocalisation, and so on. These can be fairly
+precisely defined among a group of observers, criteria
+decided on, and checks made on the measures
+obtained. This indeed is the position which contemporary ethologists have moved towards in their
+detailed observation of animal behaviour in natural
+surroundings. The more general (Le. non-specific)
+observational studies which characterised the earlier
+work and which have been described in a number of
+popular books (e.g. Tinbergen, 1953, on the herring
+gull; Lorenz, 1967, on geese and fish and Jane van
+Lawick-Goodall, 1971, on chimpanzees) have since
+been much elaborated into careful and detailed
+monitoring of specifiable elements of behaviour.
+Ethologists frequently draw analogies from animal
+to human behaviour on the grounds that humans are,
+after all, members of the animal kingdom and are
+descended through evolutionary processes from
+animals, and possess the same or similar sensory and
+neural equipment. Quite naturally they tend to emphasise the role of innate mechanisms-the view that
+organisms come into the world already equipped with
+behaviour programmes. This would mean that they
+have been programmed in the course of their
+phylogeny (the evolution of the species) and that
+their behaviour patterns are innate just like the
+physical structures th!!y are born with. With this
+assumption in mind, it is a short step to apply the
+findings and explanations based on sex and aggression
+in fish, birds and apes, to man. Lorenz, for example,
+in discussing aggressive behaviour in the defence of
+territorial rights and pointing out the various inhibitory mechanisms which restrain aggression when
+animals live together in social groups, comments as
+follows:
+'Every fish knew the owners of neighbouring territories very exactly and tolerated them peacefully at
+closest quarters, while he immediately attacked every
+stranger which approached his spawning hollow even
+from farther away.'
+This peacefulness, it is postulated, is dependent on
+individual recognition of their fellows, and this nonaggressive pact of neighbours 'resembles true friendship'. Lorenz then continues with a beguiling analogy
+from human behaviour:
+• Among human beings this phenomenon can
+regularly be observed in railway carriages, incidentally an excellent place in which to study the function
+of aggression in the spacing out of territories. All the
+rude behaviour patterns serving for the repulsion of
+seat-competitors and intruders, such as covering
+empty places with coats or bags. putting up one's
+feet, or pretending to be asleep, are brought into
+action against the unknown individual only. As soon
+as the newcomer turns out to be even the merest
+acquaintance they disappear and are replaced by
+rather shamefaced politeness.'
+Ethological studies are fascinating to read and it is
+an intriguing exercise to make comparisons between
+human and animal behaviour. They have made us
+sensibly aware of the many comparable situations
+which we share in common with other animals.
+Analogies have an important role in science, but they
+require careful handling; vital differences must not be
+glossed over. To use these examples as complete
+explanations of human behaviour is to ignore many
+other factors, not the least being the possession of
+language and the role of thinking, which make any
+simple-minded use of analogies exceedingly misleading.
+The technique of detailed behavioural sampling used
+by ethologists is, however, a valid and informative
+approach to the study of behaviour, especially when
+its elements can be carefully defined. It has been
+successfully applied to human studies, especially of
+young infants and children. Fears in infants are
+particularly interesting since they throw light on
+emotional, cognitive and social development. Fear of
+strangers (which in human infants usually appears in
+the second half of the first year of life and may extend
+long into the second year) can be studied by measuring such elements as the infant's facial expression
+(smiling, frowning, etc.), visual fixation, vocalisation,
+and motor activity in response to different types of
+strangers. In a controlled environment it is possible to
+examine analytically the effects of various factors on
+the child's fears, for example the size of the stranger,
+the sex, the proximity to the infant. One such study
+found, for example, that whereas the faCial response
+was positive to the self (viewed in a mirror), and to
+mother and a strange child, it was negative to a
+strange male and female; further, the intensity of the
+reactions (either positive or negative) increased with
+closeness (Lewis and Brooks-Gunn, 1972).
+One modern interpretation of the fear of strangers
+phenomenon is in terms of the massive learning and
+cognitive development which takes place in the young
+child. As we proceed along the phylogenetic scale
+learning becomes more important for the survival of
+the organism. The child has to learn to differentiate
+self from non-self, to discriminate the strange and the
+novel from th" familiar. Hebb (1946) has suggested
+that fear occurs when an object is seen which is like
+familiar objects in enough respects to arouse habitual
+processes of perception, but in other respects arouses
+incompatible processes, and there is considerable
+evidence in infant studies (reviewed by Zegans and
+Zegans, 1972) to support the hypothesis that cognitive conflict affects emotional behaviour. This
+cognitive approach stresses the interaction between
+the infant's past and present experience; it stresses
+that the child's response to the 'strange' is a part of its
+larger emerging cognitive functions.
+A point worth making in connection with some of
+these psychological studies is the methodological
+sophistication of the data analyses which are carried
+out. In infant/mother studies, for example, it is
+essential to study the interaction within the 'dyad' as
+this two-person relationship is termed. This matrix
+of maternal and infant behaviours involves the effect
+(for example) of vocalisation by A on vocalisation by
+B; or of vocalisation by A on the emotional response
+of B and the effect of this response back on A. Appropriate statistical analyses of this communication
+network are possible. The value of this approach is
+that a genuine two-way interaction can be assessed
+(Lewis and Freedle, 1972).
+Some ethologists have extended their naturalistic
+approach to human behaviour in different societies
+and cultures. It becomes evident in human groups that
+social interactions and the means of smoothing social
+relationships assume great importance. These have
+been examined under such headings as territoriality,
+aggression, sexual, affiliative and group behaviour;
+Eibl-Eibesfeldt (I971), for example, illustrates the
+variety of greeting behaviours which are observed in
+different nations and interprets them in terms of their
+role in establishing a bond and appeasing aggression.
+Posture and gesture are seen in this context as
+forms of expressive behaviour which are useful in
+social interaction as non-verbal means of conveying
+information. It is argued that the role of certain
+postures such as bowing, curtsying, falling to one's
+knees, etc. is that of making oneself small and thereby
+appeasing. This is the precise opposite of threatening
+behaviour and as such, ethologists suggest, is a
+central function of social rites. Threatening postures
+typically involve making oneself larger, often by
+raising the shoulders. Among primates for example,
+those small muscles are tensed which make the hairs
+on arms, back and shoulders stand erect. This in the
+chimpanzee leads to bristling of the fur which strikingly alters its appearance.
+These field studies are interesting and useful
+reminders that social behaviour may have innate
+origins. They are· supplemented by a quite independent set of studies which have been carried out on
+factors influencing social interaction, largely within
+the laboratory or controlled environment. Argyle
+(1969) has presented in a very readable and comprehensive way the varieties of non-verbal behaviour
+which occur in social situations such as meeting a
+strange person, being interviewed, performing before
+an audience, and in social structures such as being in
+prison or hospital. These behavioural elements
+include bodily contact, proximity, posture, facial and
+gestural movements, direction of gaze, and nonverbal aspects of speech. They are related not only to
+Emotions 31
+the type of situation, but the organisation of the group
+and the individual's perception and personality, and
+Argyle illustrates how they are modified by the
+different kinds of social encounter.
+(a)
+(b)
+Figure 3.1 (a) The display face is shown by aggressive
+chimpanzees, especially during their charging displays or
+when attacking others.
+(b) A full closed grin (upper and lower front teeth showing, but with jaws closed), is the expression of a chimpanzee
+who is probably less frightened or excited than one showing
+an open grin (upper and lower front teeth showing, jaws
+open). 'If the human nervous or social smile has its
+equivalent expression in the chimpanzee it is, without
+doubt, the closed grin' (Jane van Lawick-Goodall, 1971).
+(From Jane van Lawick-Goodall, 1971, by courtesy of
+Collins)
+32 Basic processes
+Facial expression
+Can the face provide accurate information about
+emotion? This simple question, the answer to which
+may seem patently obvious on an intuitive basis, has
+baffled investigators for many decades. Earlier studies
+suffered from many methodological deficiencies and
+technical prcblems, and a variety of approaches has
+been tried out and discussed, e.g. the relative merit of
+motion (film or videotape) and still (photograph)
+records of facial behaviour; whether ratings should be
+made for specific types of emotions (fear, anger,
+sadness, disgust, etc.) or should aim to distinguish
+dimensions of feeling (such as pleasant/unpleasant,
+attention/rejection, positive/negative social attitude).
+Recent reviews of this area (Ekman et aI., 1972)
+conclude that when people look at the faces of other
+people, they can obtain information about happiness,
+fear, anger, disgust/contempt, interest and sadness.
+They can also describe the information they obtain in
+terms of dimensions such as pleasant-to-unpleasant,
+active-to-passive, and intense-to-controlled. Impressions about whether someone is angry, happy, sad,
+etc. can be related to particular movements and positions of the face.
+Darwin was one of the earliest writers to draw
+attention to expressive movements of the face and
+ethologists since then have shown that these facial
+expressions are meaningful in that they convey
+accurate information of intention to other members of
+the species (Figure 3.1). Signs of threat, attack and
+submission seem well-understood and have been
+discussed in terms of ' sign stimuli' which are instantly
+recognised and activate the appropriate kind of
+strategic reaction (van Lawick-Goodall, 1971).
+However, the study of facial behaviour in man in
+naturalistic settings has many difficulties: we wear our
+own masks in most social situations, and typically
+inhibit the direct expression of feeling. Ekman et at.
+(1972) hypothesise that there are culture-specific
+display rules, which dictate how facial behaviour is to
+be managed in particular social settings; and that this
+masking can be achieved in a variety of ways, by
+fragmenting the facial behaviour so that movements
+are seen in only one facial area rather than the whole;
+by time reduction, so that facial behaviour is visible
+for a brief instant; or by a miniaturisation, so that the
+excursion of the facial muscular movements is
+lessened.
+Vocalisation: non-verbal aspects of speech
+Much of the communication involved in speech goes
+on at a non-verbal level: how it is said rather than
+what is said. To take an extreme case: 'Yes' can be
+voiced to mean 'No'! Emotional tone is one of the
+most primitive aspects of speech; animals communicate their emotional states by sounds, and so in
+effect do humans. This is not the main conscious
+purpose of speech, in adults at least, but it is an
+important part of the message that gets across. These
+vocal characteristics can be described in terms of
+physical characteristics such as rate, pitch and timing;
+more elaborate measures include frequency distribution, and voice quality (e.g. resonant, breathy,
+quavery). Counts of speech errors can be made, but
+it is difficult to find a standard measuring situation
+since they are sensitive to audience effects and
+difficulty of material.
+While research into vocalisation and emotion is
+continuing," the assumption that it would be. possible
+to translate emotions into non-verbal cues has been
+proved difficult in practice. Much of this kind of
+research is reviewed by Argyle (1969) and Davitz
+(1964).
+Eye contact
+Eye contact behaviour, that is to say the duration of
+eye gaze, has been studied as part of the expressive
+Figure 3.2 Flirting Samburu girl. She makes contact
+with the eyes, lowers her eyelids, then looks away. The
+ritualised flight is confined to the eye movements. It is
+no more than hinted at in the head movements. (From
+Eibl-Eibesfeldt, 1971, by courtesy of Methuen)
+movements occurring in social interaction. Several
+differing processes seem to be involved in gazedirection. In the first place A may look at B to try to
+establish a relationship, and will look more if he or
+she wants to establish a closer relationship of some
+kind (Figure 3.2).
+In this case eye contact is sought, but too much of
+it creates anxiety. A prolonged stare seems to be
+interpreted as threatening and is rated as being very
+discomforting (Exline, 1971). It may also be used to
+try to establish a dominant relationship.
+Argyle (1969) has outlined the ways in which
+looking at another person, together with other signals,
+can be used to establish different kinds of relationship.
+These other signals include facial expression (smiling,
+frowning, etc.), pupillary changes and physical proximity. Research at the Institute of Psychiatry in
+London has shown that anxious people tend to
+minimise eye contact by looking away from the
+experimt:nter. This is only evident under the stressful
+condition of a prolonged stare by the experimenter,
+and not during a relaxed period of conversation.
+This section has illustrated some of the studies
+using observational techniques of overt behaviour in
+naturalistic settings and also some of the laboratory
+research which has aimed to measure behaviour more
+analytically. It raises a number of methodological and
+interpretative problems, some of which can be summarised as follows.
+The biases of raters have been discussed, and there
+is considerable evidence that these biases significantly
+affect judgement. We should do well to be aware of
+our own! A more difficult factor to come to terms
+with is the great selectivity of perception which
+narrows informational input to the individual. What
+dimensions or categories are relevant will depend on
+the culture, the situation, the motivation and personality of the perceiver. Thus a religious enthusiast wants to know if people are saved or not,
+a political enthusiast which side they are on, a snob
+which class they belong to, and so on.
+In this section there have also been examples of
+analogies of behaviour from different species of
+animal to man. These must be scrutinised carefully,
+as much for what they omit as for what they include.
+The dangers of anthropomorphism---of attributing to others (especially animals) the kinds of feelings and motives we experience ourselves-are ever
+present.
+Quite obviously all the elements of behaviour which
+have been discussed convey signals and information,
+both to other animals of the same species and to the
+observer. Some of this information-the way it is
+given and the way it is interpreted-seems largely
+innately determined. But there is overwhelming
+evidence for the role of learning. Adults have been
+exposed to a very long learning process in which
+different elements of overt behaviour may be inhibited.
+Thus behaviour becomes fragmented-fear and anger
+may be experienced but perhaps rarely or never
+expressed in direct fearful and aggressive behaviour.
+Grief may be great, yet no tears allowed.
+Whether overt reactions occur or not, there seems
+little doubt that underlying the behavioural signals
+there is a substratum of physiological activity which
+bears a complex and significant relationship to
+emotional experience.
+2. Physiological concomitants of emotion
+In considering this type of measurement we move to a
+set of studies which in general are characterised by
+complete objectivity of recording methods, a high
+degree of technical skill, and which are typically
+laboratory-based and involve controlled experimentation.
+The fact of bodily involvement in emotion is widely
+recognised. Its manifestations are diffuse. 'Researches
+5
+~ 4
+" .
+--- "
+~ • 0 7 %
+~
+---
+--'- '0
+II
+'2 ---
+'" 2
+; '" J
+3
+SPINAL CORO
+Emotions 33
+E'E
+LACRIMAL GLAND
+MuCOuS MEMSRANE
+OF NOSE ANO PALATE.
+SUBMAXILLARy GLAND
+SUBLINGUAL GLAND
+MUCOUS MEMBRANE Of MOUTH
+PARono GLAND
+HEART
+lARVNX
+fFlACH~
+LUNGS
+ESOPHAGUS
+STOMACH
+ABDOMINAL
+BLOOD VESSEI.S
+UVEA AN 0 DUCTS
+PANCREAS
+$MAU,. tNTI:$TINf
+LARGIE INTESl1N(
+RECTUM
+ADRENAL
+KIDNEY
+BlADDER
+SEXUAL ORGANS
+EXTERNAL GENITAUA
+Figure 3.3 The autonomic nervous system is represented
+in this diagram. Parasympathetic fibres arise from the
+brain and sacral vertebrae. The sympathetic branches
+arise from the thoracic and lumbar vertebrae
+... have shown that not only the heart, but the entire
+circulatory system, forms a sort of sounding-board,
+which every change of our consciousness, however
+slight, may make reverberate. Hardly a sensation
+comes to us without sending waves of alternate
+constriction and dilation down the arteries of our
+arms. The blood-vessels of the abdomen act recipro-
+34 Basic processes
+cally with those of the more outward parts. The
+bladder and bowels, the glands of the mouth, throat
+and skin, and the liver, are known to be affected
+gravely in certain severe emotions, and are unquestionably affected transientJy when the emotions
+are of a lighter sort. That the heart -beats and the
+rhythm of breathing play a leading part in all
+emotions whatsoever is a matter too notorious for
+proof.' This quotation is from James (1890) and
+illustrates a pre-experimental viewpoint which has
+proved amply justified.
+Many experiments have since provided data for the
+hypothesis that emotionality is related to excitability
+of the autonomic nervous system. Its role in
+emotional states was intensively examined by Cannon
+(1929). He recognised that the extensiveness and wide
+distribution of sympathetic nerve fibres permit diffuse
+action throughout the body, whereas the cranial and
+sacral divisions of the parasympathetic system with
+their restricted distributions allow for more specific
+action (Figure 3.3). He assigned to the cranial
+division the role of conserver of bodily energies; to the
+sacral division a group of mechanisms for emptying,
+while to the antagonistic sympathetic division he
+assigned an 'emergency' function. Pain, the major
+emotions fear and rage, and also intense excitement,
+are manifested in the activities of the sympathetic
+nervous division. When in these states, impulses are
+discharged over the neurones of this division to
+produce all the changes typical of sympathetic
+excitation.
+Cannon also showed how closely related are the
+effects of the sympathetic nervous system and adrenal
+secretion. Epinephrine, secreted from the adrenal
+medulla, is extraordinarily effective in minute amounts
+and affects the structures innervated by the sympathetic division of the autonomic nervous system just
+as if they were receiving nervous impulses. Emotional
+excitement thus results in sympathetic (neural) discharges both to peripheral structures and to the
+adrenal medulla. This leads to the secretion of
+hormones, in particular adrenaline (or epinephrine as
+it is sometimes called) which has similar effects to the
+neural stimulation of sympathetic fibres, but on a
+longer time base. Thus sympathetic effects are automatically augmented and prolonged through direct
+chemical action on the organs themselves.
+To summarise, the importance of Cannon's work
+was his experimental approach in linking emotional
+behaviour with precisely measured physiological
+effects. The utility of these bodily changes was
+discussed in terms of mobilising the organism for
+prompt and.efficient struggle.
+The relevance of sympathetic activity to emotional
+experience becomes evident when we review the
+effects of sympathetic activity on end organs. Salivation is reduced or stopped; movement of the
+stomach, secretion of gastric juices and peristaltic
+movements of the intestines are all inhibited. These
+effects together slow down digestion. They also
+interfere with normal parasympathetic functions,
+giving rise to defaecation and urination. Changes in
+the circulatory system also take place. Sympathetic
+impulses to the heart make it beat faster. They also
+cause constriction of the blood vessels of the gut and
+control blood flow in such a way as to direct more
+blood to brain and skeletal muscle mass. The impulses
+of the sympathetic neurones, as indicated by their
+dominance over the digestive process, are capable of
+readily overwhelming the conditions established by
+the parasympathetic division of the autonomic
+nervous system.
+Many of the bodily effects of sympathetic arousal
+can be detected from the surface of the body by
+means of appropriate transducers and high gain
+amplifiers. Active brain, muscles, heart, sweat glands
+~--------------~,------------~~
+Figure 3.4 Sample of p ychophysiological recordings.
+From top to bottom: tachograph (heart rate changes),
+EKG, event marker (stimulus = a tone), respiration, palmar
+skin resistance, and plethysmograph (blood volume change
+in the ear lobe). A respiratory rhythm can be seen superimpo ed on the latter
+and many other structures produce small voltages
+which can readily be picked up by means of
+appropriately situated electrodes placed on the skin.
+These small impulses are amplified to produce the
+recordings illustrated in Figure 3.4.
+One of the most popular measures of the psychological laboratory is palmar skin resistance. This is
+closely associated with sweat gland activity and is
+extremely sensitive to changes in level of arousal, and
+to novelty and stress. Polygraph recordings of this
+and other physiological measures are becoming
+reasonably commonplace in psychological laboratories and are increasingly contributing to our
+understanding of human emotions, especially anxiety.
+It should be possible in the near future to employ
+existing techniques of telemetric recording (usually
+radio transmitted signals from individuals in free
+situations, i.e. not confined by wires and leads to
+apparatus in the laboratory) in psychological and
+psychiatric studies. It would then be possible to
+record from an agoraphobic patient, for example, in
+the real setting of his fear. As yet, however, psychophysiological studies are virtually confined to the
+laboratory, and this necessarily introduces an element
+of artificiality into the situation. Since it is not possible
+to induce strong emotions such as fear in those who
+volunteer to be subjects, experiments are carried out
+in 'analogue' situations, i.e. those of mild fear or
+unpleasantness, by using unpleasant sensory stimuli
+such as harsh tones, or by comparing groups of
+anxious subjects with non-anxious subjects in certain
+mildly stressful situations like solving problems,
+coping with distraction, etc. Physiological reactivity
+in the two groups (anxious v. non-anxious, stressed v.
+unstressed) can then be compared. Results of various
+psychophysiological studies in the context of psychiatric disorders have been reviewed by Martin
+(1973), and in the context of treatment by desensitisation by Mathews (1971).
+In recent years, other classes of compounds have
+been implicated in various affective states, including
+normal and pathological anxiety, depression, elation
+and anger. These include the catecholamines, epinephrine and norepinephrine, and the indole amine,
+serotonin. While norepinephrine functions as a
+chemical transmitter substance at the terminals of the
+peripheral sympathetic nervous system, the role of
+this and other amines in the central nervous system
+is far from clear. It has been suggested that norepinephrine and serotonin may each function directly
+as a transmitter substance in the central nervous
+system, though none of the biogenic amines has yet
+been definitely established as a chemical neurotransmitter in the brain (see Schildkraut and Kety,
+1967, for a review of this area).
+Many of the experiments mentioned above (and all
+of Cannon's) were carried out on infra-human
+animals, often cats. The results of decades of experimental work with human subjects, while confirming
+time and time again the involvement of physiological
+reactivity in emotion, have nevertheless increased
+rather than reduced the puzzles and the problems.
+The dissociation mentioned earlier between behaviour
+and emotion (that an emotion might be felt strongly
+but not expressed in any way) is also found between
+physiological variables. It had been expected on the
+basis of the 'mass action' of the sympathetic division
+of the autonomic nervous system that all measures of
+sympathetic activity would relate highly with one
+another, i.e. an increase in one measure would be
+reflected by increases in others. Contrary to this
+assumption, the physiological reaction shows idiosyncratic patterning, one person responding more in
+Emotions 35
+one specific measure (say increased blood pressure)
+and relatively little in other measures, while another
+person evinces a high degree of sweating, and yet
+another elevated levels of muscle tension. It is possible
+that this patterning of reaction is a function of the
+relatively stress-free atmosphere of the laboratory,
+and that all systems would be equally elevated in a
+real-life stress. It is also possible that some degree of
+patterning really does exist and is related to specific
+symptom areas as found in psychosomatic illnesses.
+Research which has been carried out on symptoms
+such as backache and headache seems to suggest a
+fairly localised muscle tension: muscles in the
+symptom areas are excessively tense while other
+muscle groups remain relatively relaxed.
+Another factor to be briefly mentioned is the
+nature of the measurements which are made from the
+physiological recordings. It is usual to refer to
+'elevated' physiological reactivity, i.e. to the intensity
+or amplitude of a particular reaction, but there are
+other characteristics which can be measured but which
+are often ignored. In a given situation people may
+react physiologically at different latencies (short or
+long) for different durations, and they may take a
+longer or shorter time for the physiological reaction
+to subside. This persistence of reaction is not perhaps
+very meaningful in the laboratory situation, but
+differences in timing have been noted in the few reallife stress studies which have been carried out.
+Experienced v. inexperienced parachutists differ, for
+example, in their temporal patterning of heart-rate
+reactions prior to jumping (Epstein, 1967).
+Another limiting factor in psychophysiological
+studies is their failure to take account of the role of
+pituitary-adrenal involvement in the stress response
+of human subjects. Measurement problems are of
+course formidable, but it should be recognised that
+not only the adrenal medulla but the adrenal cortex
+has been discussed in the context of emotion and
+stress (see, for example, Selye 1956). Thus the
+overall physiological pattern occurring in emotion and
+prolonged stress is likely to be very complicated
+indeed; and, within any general pattern which may
+eventually be elucidated, it will certainly be the case
+that individuals will differ in many characteristics.
+Eysenck (1967) has postulated that neurotic/anxious
+subjects tend to inherit a more reactive sympathetic
+nervous system, and hence personality characteristics
+which determine stress thresholds and stress
+tolerance; a similar case has been made out for
+biochemical individuality (Williams, 1956). These
+factors, combined with the effects which learning may
+have on the individual elements of the overall
+emotional response, suggest that we are far from an
+adequate measurement of the physiological response
+pattern of emotion. '
+Granted that physiological changes occur, how
+does the individual perceive them within hims~f?
+36 Basic processes
+Results of research in this area suggest, perhaps
+surprisingly, that people do not judge their internal
+states very precisely. Even physiological events which
+might seem obvious, like a markedly increased heart
+rate or level of muscle tension, are not always
+accurately rated. The evidence suggests that perception of bodily change and actual bodily change are
+not perfectly related, and that individuals may be
+hyporesponsive or hyperresponsive to particular kinds
+of change. It has been postulated that obese
+individuals, for example, may be unresponsive to
+hunger-induced bodily changes in the sense of not
+using them to define hunger or to initiate eating.
+This concern with the perception of bodily changesgives rise to an interesting set of questions. What does
+an individual do when he does perceive bodily
+change? That is to say, what does he do with this
+information? Common sense tell us that novel
+information about ourselves is not disregarded. We
+think about it and attempt to understand it. This
+evaluative process is a crucial factor in recent
+cognitive theories of emotion. In an etTort to deal with
+the inadequacies of a purely visceral or physiological
+formulation of emotion, several researchers have
+proposed that cognitive factors may be major determinants of emotional states. Given a state of physiological arousal it has been suggested that one labels,
+interprets and identifies this stirred-up state in terms
+of the characteristics of the precipitating situation.
+Thus it is argued that emotional experience is jointly
+determined by the perception and labelling of bodily
+changes.
+3. Verbal methods: questionnaires, scales,
+self-reports
+Any adequate account of human emotion must take
+into account the individual's description of his
+SUbjective feelings. These are often freely described in
+the clinical interview situation, but for experimental
+purposes methods of categorising and quantifying the
+verbal material have been devised. These include
+questionnaire responses, adjective check lists and
+mood scales, as well as some of the structured
+interviews which typically occur in many experiments.
+In mood scales the subject is usually required to
+describe his feelings by endorsing from a large list
+of adjectives (angry, bored, tired, relaxed, etc.) those
+that apply to him. Even quite simply the subject may
+be asked to rate himself along a hypothetical continuum. For example, a mood scale of depression
+might include a scale ranging from 'feeling cheerful,
+on top of the world' at one end, to 'feeling unhappy
+and utterly miserable' at the other end. A scale of fear
+might ask the subject to rate a particular fear along a
+continuum of 0 as no fear at all to 100 as the most
+frightened he has ever been. The idea behind these
+scales is that of a standardised format, to help the
+subject describe his own feelings. They have been
+used in demonstrating changes in attitude with forms
+of psychotherapy, change in emotional responsiveness
+to frightening films and in reflecting the effects of
+drugs.
+The typical questionnaire contains fairly specific
+statements about the individual's behaviour. An
+anxiety scale, for example, might contain such
+questions as: Do you sutTer from sleeplessness? Do
+you worry about your health? Items in such scales
+usually refer to typical behaviour, to generally feeling
+tense, often having difficulty in sleeping, etc. In this
+sense they are used to refer to a personality trait, i.e.
+a relatively persistent, long-lasting aspect of a person's
+nature. We may also need to know how a person is
+feeling now. Granted that he has a trait of anxiety,
+that is to say he tends to be an anxious person and
+this tends to be manifested in many ditTerent situations, does he feel anxious right now. Such a
+question refers to the individual's current state. Trait
+and state aspects of personality measurements do not
+always coincide; however anxious in general, we may
+right now feel relaxed. Many personality scales have
+been designed with the 'state' measure in mind, and
+they require answers concerning the individual's
+current state of feeling.
+There have been many criticisms of these methods
+of assessing emotional states. Many of the items
+included in these lists are selected quite arbitrarily. A
+person who scores high on an anxiety scale may also
+score high on a depression scale or a scale of
+hysteria, simply because the scales include haphazardly grouped items which were just guessed at in
+the first place. The a priori construction of questionnaires and the naive notion that because a
+questionnaire is given a particular label it therefore
+measures that particular trait have had to be
+abandoned. Very careful validation techniques and
+statistical analyses are required to sort out this kind
+of problem.
+Eysenck (1969) has tried to structure the whole
+field of personality in terms of independent dimensions. Three major dimensions have been
+described to date: neuroticism, introversion-extroversion and psychoticism. Items which characterise
+neuroticism (or emotional instability) include nervousness, depression, inferiority feelings, etc. The
+neurotic is hypochondriacal, worried, excitable and
+impatient. Differentiated emotional states are seen
+within this dimensional framework: the introverted
+neurotic, for example, is predisposed to sutTer anxiety
+and depression.
+Other criticisms which have been raised concern
+subjects' biases (e.g. the tendency to answer 'yes' or
+'no' to all questions), age and sex factors, and the
+observation that subjects may deliberately fake their
+answers. Modern questionnaires have gone a long
+way towards coping with these difficulties. A great
+deal of statistical and experimental expertise have
+gone into their construction, their reliability and
+validity. Nevertheless, questionnaire responses must
+be interpreted with care; they provide useful information, out this is probably most profitably considered
+alongside other sources of information, especially the
+physiological and the behavioural.
+Cognitive/perceptual/actors
+The preceding section has dealt with relatively
+straightforward questions and responses concerning
+the subject's typical behaviour and his immediate
+feeling states. We move now towards. a set of cognitive/peripheral factors which while of undeniable
+significance are more elusive of definition and
+measurement.
+It is apparent that human subjects not only
+selectively perceive the world around, but make
+judgements and evaluations, deliberate about alternative solutions to problems, make plans, and try to
+cope with difficult situations by means of different
+plans and strategies. A number of studies have been
+carried out to examine how these factors affect
+behaviour.
+Several writers have discussed emotion in terms of
+the individual's perception and appraisal of his
+situation. Arnold (1960) defines emotion as the felt
+tendency toward anything intuitively appraised as
+good (beneficial) and away from anything intuitively
+appraised as bad (harmful); this attraction or
+aversion is accompanied by a pattern of physiological
+changes organised toward approach or withdrawal.
+The appraisal process is described as direct,
+immediate and intuitive, not the result of reflection or
+deliberation.
+This view that one of the primary evaluations of a
+stressful situation is in terms of the threat which it
+poses the individual has also been proposed by
+Emotions 37
+Lazarus (1968), who has carried out a long series of
+studies on this basis. He distinguishes a primary and
+a secondary appraisal, the first based on the immediate situational confrontation and the evaluation by the
+individual of its harmful or beneficial significance; the
+second within the context of the coping strategies
+which are employed. These are illustrated in
+Table 3.1
+Meichenbaum (1972) illustrates the relationship
+between the individual's self-evaluatory statements
+and his level of anxiety in a situation of public
+speaking, during which some members ofthe audience
+walk out of the room, on two different speakers, both
+possessing essentially the same speaking skills.
+This exodus elicits different self-statements from
+high v. low speech-anxious speakers. The high speechanxious individual is more likely to say to himself: 'I
+must be boring. How much longer do 1 have to
+speak? 1 knew 1 never could give a speech' and so
+forth. These self-statements engender anxiety and
+become self-fulfilling prophecies. On the other hand,
+the low speech-anxious individual is more likely to
+view the audience's departure as a sign of rudeness or
+to attribute their leaving to external considerations.
+He is more likely to say something like: 'They must
+have a class to catch. Too bad they have to leave;
+they will miss a good talk'.
+Such self-statements are often implicit, and may
+need to be made explicit in order for retraining of
+more positive attitudes to take place. A related aspect
+of performance is the individual's judgement of how
+he feels he has coped with a stressful situation, once
+he has acted. Was it well done? Does he feel a failure?
+Many appraisals and reappraisals take place as we
+think over past actions. The wider problem is often
+what constitutes coping adaptive beha~iour in relation
+to the values which are held.
+One extreme of coping behaviour (its absence) has
+Table 3.1 Sources of information contributing to primary and secondary appraisal. (From Lazarus, 1966, by
+courtesy of McGraw-Hill)
+Factors in stress configuration
+contributing to appraisals
+Factors within physiological structure
+contributing to appraisals
+Primary appraisal
+(based on nature of
+harmful corifrontation)
+Threat or non-threat
+1. Balance of power between harm
+and counterharm resources
+2. Imminence of confrontation
+3. Ambiguity of stimulus cues concerning harm
+I. Motive strength and pattern
+2. Several belief systems conc(lrning
+transactions with environment
+3. Intellectual resources, education,
+and sophistication
+Coping
+Secondary appraisal
+(based on consequences
+of action tendencies)
+I. Location of agent of harm
+2. Viability of alternative coping
+.actions
+3. Situational constraints
+*Degree of threat
+1. Motive strength and pattern
+(because of potential sacrifices
+entailed in any action)
+2. Ego resources
+3. Coping dispositions
+* Belongs neither in stimulus configuration nor physiological structure but is a complex, intervening product of both.
+38 Basic processes
+b~en illustrated in studies carried out on dogs. When
+a dog receives traumatic electric shock which cannot
+be predicted and from which there is no escape it
+eventually seems to give up and passively accept the
+shock. Seligman et al. (1971) refer to this form of
+passive behaviour as 'learned helplessness'. Many of
+these dogs who are subsequently given the opportunity to escape from shock fail to learn to do so, and
+Seligman argues that these animals become passive in
+the face of trauma. Extending his argument on
+learned helplessness to human behaviour, he suggests
+that depressive patients feel helpless, hopeless and
+powerless because they have learned (or believe) that
+they cannot control those elements of their lives which
+relieve sutTering and bring gratification. In short they
+believe they are helpless. The detailed analogy which
+Seligman otTers is couched in learning theory terms,
+and on this basis he has suggested various ways of
+modifying the 'helpless' behaviour.
+The role of cognitive and coping factors is being
+increasingly explored in ditTerent kinds of therapeutic
+situations. There is a rapidly expanding group of
+studies in which the many attributes of fears, especially fears of fairly specific objects like small animals,
+are carefully investigated. Self-reports of fear are
+obtained, together with physiological recordings to
+phobic and neutral stimuli, and observations of the
+subject's overt response to the feared object (i.e.
+degree of approach/avoidance, etc.). The self-reports
+often include information concerning the subject's
+perception and evaluation both of the situation and
+the degree to which he feels he is coping with it (Lang,
+1968). This group of studies is closely related to
+various kinds of therapies, and they have often
+attempted to evaluate the success of specific treatments in terms of their etTects on the components of
+fear.
+Some of the specifically cognitive-oriented research
+into emotion is primarily concerned with the nature
+of the stimulus or situational etTects which are
+involved in producing emotional reactivity. It has
+frequently been observed that man and infra-human
+animals react negatively to events that deviate from
+what they have adapted or habituated to. Information
+conflict arises when a previously laid down neutral
+pattern is set against a stimulus similar to, but not the
+same as one experienced in the past. Explanations
+have been given in terms of the organism maintaining
+some more or less optimal level of arousal and
+cortical activity. Stimulus variables such as novelty,
+incongruity and surprise which are mild or moderate
+in degree are likely to elicit orienting/arousal reactions, interest and possibly exploratory behaviour.
+Extremely intense stimuli on the other hand usually
+provoke defensive reactions such as rigidity, startle
+and flight (Figure 3.5).
+Most of the arousal level hypotheses are essentially
+theories of tension reduction. Deviations from optimal
+'0
+E
+.,
+-5
+~ :.c
+'iii
+o "' c.
+o
+c:
+o
+'B
+c:
+.2
+.,
+" u
+'0
+a;
+.3
+Optimal level of
+response and learning
+Increasing emotional
+disturbance, anxiety
+Level of arousal function (nonspecific cortical bombardment)
+Figure 3.5 Relationship between the 'cue function' of
+stimuli which guide behaviour, and the general 'arousal
+function' of stimuli which energise behaviour. Cortical
+(cue) function is facilitated by the diffuse bombardment of
+the arousal system up to an optimum. Beyond this, as at
+the right, the greater bombardment may interfere with the
+delicate adjustments involved in cue function. Thus there
+will be an optimal level of arousal for effective behaviour.
+(From Hebb, 1955, by courtesy of Psychol. Rev.)
+arousal levels create tension and discomfort which
+motivate the organism towards efforts at their
+removal. Such theories imply a kind of homeostatic
+or equilibrium principle.
+Many specific problems along these lines have
+been examined by experimental research in this area,
+and the issue in the present context is the extent to
+which such cognitive factors atTect an emotion like
+anxiety. Does a statement like 'I have failed' engender more anxiety and hence increased physiological arousal; and conversely a statement like 'I
+can convince myself to do it. I can reason my fear
+away' reduce anxiety and physiological arousal? The
+extent to which this type of modification can occur,
+and the type of learning procedures which it implies,
+will be dealt with in greater detail in the following
+chapter. The point to emphasise here is that the
+various systems, e.g. cognitive and physiological,
+appear to interact with each other in such a way as
+to augment or diminish g.eneral emotional responsivity.
+RELATIONSHIP AMONG MEASURES OF
+EMOTION
+The earlier naive assumption was that measures, e.g.
+of anxiety, would all relate to ~me another. It has
+become apparent, however, that this is far from true.
+As we have seen, the overall pattern of emotion
+contains many components: overt elements of
+behaviour, internal physiological changes, complex
+cognitions ahd perceptions; it leads the individual to
+act upon and to interact with his environment in ways
+which he interprets as 'coping' or 'failing', etc.
+One group of studies has been concerned with the
+cognitive activity which underlies the production and
+reduction of the stress reaction (Lazarus and Opton,
+1966; Lazarus, 1968). This work has monitored
+physiological reactions and self-reports to frightening
+and threatening films involving death, mutilation,
+ostracism, etc. and has examined the effect of
+different types of instructions read concurrently with
+the showing of films. One set of instructions denied
+the harmful features of the events portrayed on the
+film. A second set encouraged detached, intellectualised modes of thought. A third emphasised the horror
+of the film. The key findings were that both denial
+and intellectualisation significantly reduced the stress
+reaction as measured via autonomic levels of arousal;
+and the results were interpreted as supporting the
+proposition that threat depends on the manner in
+which a situation is appraised or evaluated. 'Objectively' distressing stimulus events can be viewed
+without great stress reaction if these events are
+interpreted in non-threatening ways. These findings
+are illustrated in Figure 3.6 which shows how both
+denial and intellectualising instructions reduce skinconductance (sweating) levels from those found in the
+Baseline
+22 averaged for
+'" o
+.c;
+20
+E 18 2
+u
+E
+.S
+'" u
+c:
+..
+tl
+:l
+" c:
+o
+u
+16
+14
+12
+10
+o
+o
+the three
+conditions
+10
+320 FirSl accident _ sec
+: ....... .. .. '
+20 30 40
+Emotions 39
+control condition, when subjects are shown a film
+containing distressing accidents.
+Lazarus' results also confirm previous findings in
+that the different measures yield different pictures of
+the emotional state of the individual. He discusses the
+reasons why divergence could well occur among
+major components without necessarily invalidating
+the inferences about a given emotion, suggesting that
+each response system has its own adaptive functions,
+i.e. it illustrates some special transaction between a
+person and his environment. 'Thus what the person
+reports to the observer and, to an extent, his
+instrumental actions, reflect intentions concerning the
+social being with whom he is interacting. At the same
+time, the physiological state should also reflect the
+direct action tendencies which are mobilised for
+dealing in some fashion with the appraised threat.'
+Such a view relates to the extensive learning processes
+which inhibit, augment, and in many ways 'shape'
+individual behaviour. (Chapter 4 reviews some of
+these forms oflearning.)
+Another set of studies in this area has been
+carried out by Schachter (1966) on the cognitive
+50 60
+Time in 1 O·second intervals
+Figure 3.6 Group average skin conductance for three orientation treatments during a fi lm showing distre,sing accident>
+(From Lazaru el 0/., 1965, by courtesy of J. Personalily)
+40 Basic processes
+determinants of emotional states. Schachter accepts
+the evidence that a general pattern of sympathetic
+discharge is characteristic of emotional states. Given
+such a state of arousal, he suggests that one labels,
+interprets and identifies this stirred-up state in terms
+of the characteristics of the surrounding situation. lIt
+is the cognition which determines whether the state of
+physiological arousal will be labelled "anger", "joy" or
+whatever.' An experimental test of these propositions
+was carried out in which an injection of epinephrine
+was given to four groups: (I) informed about the
+nature of the injection and that they would probably
+feel physiological effects, (2) left totally ignorant
+about the injection except that it was harmless, (3)
+misinformed, and (4) a placebo group. To manipulate
+the emotional states of the subjects an actor was
+employed, trained to 'act euphorically' and to 'act
+angrily'. Results showed that in both euphoric and
+anger conditions, emotional level in Group I (epinephrine informed) was ~onsiderably less than the
+other two epinephrine groups, supporting the view
+that following the injection those subjects who had no
+explanation of their bodily state were readily manipulable.into the disparate feeling states of euphoria and
+anger. Those subjects injected with epinephrine and
+told what they would feel and why proved relatively
+immune to the effects of the manipulated cognitions.
+In addition to these experimental studies, some
++ 0·6
++ 0·4
+Increase
+0·2
+o
+- 0·2
+Change in - 0·4
+emotional ity
+following - 0·6
+spi.nal cord _ O.S
+lesIon
+- 1·0
+- 1·2
+- 1·4
+Decrease
+- 1·6
+- 1'S
+- 20
+--- Fear
+----- Anger
+51 · 3 L1 -5 T7 -12 T1 -4 C2 ·7
+Level of Lesion
+Figure 3.7 Changes in emotionality as related to height
+of spinal cord lesion. (Data from Hohmann, 1962, quoted
+by and reproduced from Schachter, 1966, by courtesy of
+Academic Press)
+interesting reports have been made on the emotional
+life of paraplegics and quadriplegics. Hohmann
+(1966) conducted a structured interview with these
+patients about sexual excitement, anger, fear, grief
+and sentimentality; he noted that subjects with cervical lesions described themselves as acting emotional
+but not feeling emotional (Figure 3.7). A few typical
+quotes might be:
+' ... it's sort of cold anger. Sometimes I act angry
+when I see some injustice. I yell and cuss and raise
+hell, because if you don't do it sometimes, I've learned
+people will take advantage of you, but it just doesn't
+have the head to it that it used to. It's a mental kind
+of anger.'
+'Seems like I get thinking mad, not shaking mad,
+and that's a lot different.'
+These quotations are interestingly contrasted with
+those from subjects given injections of adrenaline
+(Maraiion, cited by Schachter, 1966) and in whom
+physiological arousal is high. These people are conscious of a stirred up state but with no objective
+reason for emotionality they describe themselves 'as if
+frightened' but yet calm. Schachter (1966) describes
+these two sets of introspections as like opposita sides
+of the same coin. 'Maraiion's subjects reported the
+visceral correlates of emotion, but in the absence of
+veridical cognitions did not describe themselves as
+feeling emotion. Hohmann's subjects described the
+appropriate reaction to an emotion-inducing situation
+but in the absence of visceral arousal did not seem to
+describe themselves as emotional. It is as if they were
+labelling a situation, not describing a feeling.
+Obviously, this contrasting set of introspections is
+precisely what should be anticipated from a
+formulation of emotion as a joint function of cognitive and physiological factors.'
+THEORIES OF EMOTION
+Up to this point we have been concerned with the
+concept of emotion, i.e. with the components of the
+emotional state and with the relationship among the
+components. Forms of measurement have been
+considered and a rough definition of emotion has been
+outlined in terms of the patterning of its parts in
+specific contexts.
+However, we have concentrated on a relatively
+objective, testable and experimental approach to
+emotion. According to this view meaningful definitions of emotion, whether behavioural, physiological
+or clinical, must fulfil at least the requirements of
+verifiability and significance. 'The criterion of verifiability could be satisfied by defining the concept so
+that the laboratory manipulations could be repeated
+by any qualified investigator. The definition must
+then specify the relevant environmental, organismic
+and response variables. This first criterion is the
+procedure for defining scientific concepts "operationally" .. .'. The significance of a concept can be
+measured in terms of the extent to which it leads to
+the formulation of laws about the phenomena
+(Goldstein, 1968).
+In considering theories of emotion it is evident that
+many lie outside the empirical approach which has
+been adopted in this chapter, which requires \in
+agreed conceptual system and broad acceptance of
+experimental operations. Some theories, on the other
+hand, explicitly reject the experimental method, or
+phrase their hypotheses in ways which are not
+testable. Nevertheless they are of interest in that they
+are frequently ingenious and interesting, often exert
+considerable influence on our thinking and may
+possibly be rephrased in the future so that more
+direct tests of their hypotheses become possible.
+Theories of emotion are enormously varied in
+content and scope and cover widely different aspects
+of emotion. It is probably true to say that no single
+comprehensive theory exists. Some are concerned
+with consciousness and the unconscious, some with
+the role of instinctual energies; some with the
+problem of how a single, primitive form of excitement
+becomes differentiated into specific emotions, others
+with the ~pecification of innate emotions which
+appear ready made, as it were, to serve our purposes.
+The origin of emotional development in the young
+infant, in fact the whole genesis of emotional states, is
+a problem awaiting analysis. Some theories emphasise
+the essential subject-object interaction in emotion,
+i.e. the communicative aspects; others deal with those
+central nervous system structures which govern the
+physiological and behavioural concomitants of
+emotion. Obviously they are dealing with very
+different facets ofthe whole problem.
+One of the earliest theories of emotion to appear
+was that of James (1890). This attempted to explain
+how emotional behaviour and emotional experience
+were interrelated. It stated that the physiological
+response comes first, following stimulation by an
+exciting event, and that the emotional experience i~
+the result of that response. The essence of this view is
+the idea that the experience of emotion is based on
+the perception of sensations from the viscera. It
+seemed to be capable of experimental verification, in
+terms of investigating the role of visceral sensations in
+emotion. What would happen, for instance, if visceral
+connections were severed? Would we still experience
+emotion?
+Reference has been made to the reports of
+Hohmann (1966) on patients suffering spinal cord
+lesions. In practice it is of course impossible to induce
+lesions in human subjects and much of the experimentation which purported to test James' theory was
+carried out on cats and dogs. The results of this work
+showed that total separation of the viscera from the
+central nervous system does not impair emotional
+behaviour but no conclusion could be reached
+concerning emotional experience. This can only be
+Emotions 41
+checked by asking the individual what he is feeling,
+hence only human studies are appropriate. Unfortunately, several theorists have failed to recognise that
+animal experimentation cannot be employed to test
+some of the major theories of emotion as they were
+originally formulated. Theories that consider
+emotional experience in their major postulates cannot
+be tested by animal experimentation.
+As mentioned above, this means that different
+theories of emotion cover different aspects of the total
+phenomena. Theories of emotional behaviour are
+often based on instinct theories and the more sophisticated developments proposed by ethologists. Another
+approach to the study of emotional behaviour has
+been in terms of the neural structures and pathways
+which govern and organise physiological/behavioural
+reaction patterns. This is illustrated in the classic
+work of Hess (1954) who worked with electrodes
+implanted in diencephalic structures and observed
+autonomic and behavioural reactions to point by
+point stimulation of the diencephalon. Tli.e general
+field of physiological theories of emotion has been
+well-reviewed by Grossman (1967),
+Quite a different set of theories emphasise the
+subjective, personal quality of human experience of
+emotion. This is especially the case in phenomenological and existential theories. Some existentialists,
+such as Sartre (1948) explicitly reject the experimental
+method; 'essences and facts are incommensurables
+and one who begins his inquiry with facts will never
+arrive at essences'. The analysis of conscious experience is not necessarily incompatible with an approach
+which would structure and assess the dimensions of
+such experience, but it must be admitted that there is
+no apparent solution to the measurement problems
+involved.
+While such writers have emphasised the interrogation of consciousness, others hav.: postulated
+emotions as psychic forces or tendencies independent
+of consciousness, so that the search for the essence of
+emotion leads to the unconscious or to unconscious
+psychic forces. Freud discussed the existence of
+unconscious emotions dating from early infantile
+experience, and for Jung an emotion is the intrusion
+of an unconscious personality. This group of theories
+frequently relates emotion to drives and instinct, to
+energy, conflicts and repression, and to a psyche
+structurally divided, e.g. ego, id and super-ego.
+Emotion is regarded as a phenomenon which bears
+witness to an unconscious zone of experience, and
+therapies of inadequate emotions therefore involve
+practices which investigate the unconscious and allow
+it to 'have its say'.
+Certain schools derIved from psychoanalytic thinking emphasise the role of emotion as energy which
+may be converted, for example into bodily symptoms.
+I\.ccording to this view the job of psychosomatic
+therapy is to 'reverse' the flow of vital energy into
+42 8 asic processes
+appropriate channels of out1et before it causes
+permanent structural damage in those organs affected
+by the misdirected flow. A corollary to the theory of
+emotion as energy, and which does not involve transformation or conversion, is the idea that energy must
+be discharged or released. Therapeutic techniques of
+abreaction, catharsis, and release of organ-energy are
+relevant to the view that emotion is energy that must
+be 'let out', and they are applied to effect 'relief and
+harmony' within the individual.
+Theories on the genesis of emotion are equally
+varied in their explanations. The view that innate
+emotions exist has already been mentioned, but there
+are also a number of viewpoints which postulate a
+primitive affectivity or excitement out of which the
+specific emotions develop. This 'genetic' theory of
+emotions states that the undifferentiated excitement
+present at birth becomes differentiated and associated
+with certain situations and motor responses to form
+the separate emotions of later life. The nature of the
+original feeling source has been much discussed.
+In existential ontology it is Angst, and Freud, too
+considered Angst a fundamental emotion. Others
+have suggested a primary root of emotional experience in pleasure/unpleasure, sympathy, and a single
+fund of 'love-energy'. Therapy in this context can be
+seen as a process of development towards the
+differentiation of the emotions and away from their
+single, simple root or essence (Hillman, 1960).
+The problem posed by these theories is that of
+explaining the qualitative variety of the emotions, their
+number and complexity, by referring to a single,
+simple source.
+The differentiation of emotions is related to the
+development of language and its role in labelling the
+various kinds of personal experience. Relatively little
+is known about how the child acquires and applies
+verbal labels, and how such labels and more complex
+statements about emotional states are used by the
+adult to describe and explain his own feelings and
+behaviour.
+Theories of emotion are necessarily linked with
+other areas of study in psychology-with motivation,
+memory, psychopathology, personality and learning-but relationships among these areas are often
+obscure and await clarification. The terms emotion
+and motivation, for example, may be treated as
+virtually synonymous by some writers, yet are differentiated by others. Such different viewpoints arise
+more from the separate traditions and research
+interests within psychology than from logical analysis.
+Traditionally, the phenomena classified as motivational include activities such as eating, drinking,
+escaping from pain, attacking, exploring, care of the
+young and the like. It is these and similar activities
+that are labelled 'drive behaviours' and that have
+traditionally been interpreted in terms of 'instincts',
+'drives' or some other primary motive. They are
+obviously more conveniently studied in animals like
+fish, birds and rats.
+The concept of emotion has also been linked with
+drives and instincts but in a less satisfactory way, at
+least in human subjects. While fear, anger, loveattachment, etc. may be inferred from the behaviour
+of animals, they are directly experienced by human
+subjects and the perception and evaluation of this
+experience plays a prominent role in theories of
+human emotion, personality and psychopathology.
+Concern with subjective experience represents a
+different kind of emphasis from that placed on drive
+behaviour, but it does not necessarily imply an
+incompatibility of ideas. To attempt to explain
+behaviour from insect to man necessarily involves a
+variety of motivational processes, ranging from purely
+biogenic hypotheses, in which behaviour unfolds from
+a series of innate drives and instincts, to highly
+sociogenic theories which emphasise the flexibility of
+behaviour into patterns determined by cultural forces.
+Few of the available theories deal adequately with
+human subjective experience, either cognitive or
+emotional.
+Motivation and drive
+The concept of drive is central to most theories of
+motivation, and during the past few decades it has
+been extensively and ingeniously linked with theories
+of learning. These have mainly dealt with animal
+laboratory experiments but they have also been
+extended to human behaviour and human emotions.
+One of the advantages of the 'drive' concept over
+earlier instinct concepts was its precise definition in
+terms of factors like hours of deprivation (of food or
+water), the intensity of an unpleasant stimulus, or the
+level of organismic arousal as indexed by measures of
+autonomic or cortical activity. Deprivation, for
+example, was conceived as resulting in deficits (as in
+hunger) which provided stimuli that goaded the
+organism into activity. Thus deprived animals became
+restless and active; crossed obstructions to obtain
+incentives; learned a variety of appropriate responses
+which resulted in varieties of consummated behaviour.
+This conception of drive as 'energy' impelling an
+organism to action has parallels in several analyses of
+human emotion. Classical psychoanalysis also
+developed a model in which drive energy was seen to
+accumulate and to require discharge, again with the
+implication of an inexorable accumulation of energy
+which stirs the organism into regulatory activity.
+Deprivation in Freud's model arises from the failure
+to discharge the accumulated tension rather than
+from the depletion of tissues (as in hunger); it was
+believed that widely varied behaviours had their
+ultimate motivational origin in libido, aggressive
+drives, and anxiety.
+The model implied in these various views is that
+behaviour is an attempt to preserve organismic
+integrity by 'homeostatic' restorations of equilibrium.
+Some form of equilibrium concept occurs in instinct
+and drive theories, theories of emotion, analyses of
+conflict and stress and even in socially derived motivation (see Cofer and Appley, 1964). The term
+homeostasis was originally coined by a physiologist
+(Cannon, 1932) to describe the steady states attained
+at any particular moment by the physiological processes at work in living organisms. Since then the
+term has been applied to many psychological
+conditions. The homeostatic position in general is that
+the organism (and each of its subsystems) tends to
+resist changes in its environment that are of a
+magnitude large enough to upset its equilibrium or
+threaten its survival as a stable system. The theory
+does not require that a disturbed system return to its
+prior state of equilibrium; by assuming that biological
+systems are open and have continuous energy
+exchange with the environment it allows for a variety
+of means and states through which stability can be
+reached.
+The learning theorist Clark Hull (1943) assumed
+that all behaviour is motivated by homeostatic drives
+or secondary drives based upon them. He also
+assumed that all rewards are ultimately based on the
+reduction of a primary homeostatic drive. A reward
+of food reduces the homeostatic imbalance produced
+by hunger: and all animals will rapidly learn quite
+difficult responses to get a reward. Secondary
+rewards, such as social approval, are effective because
+they have been associated with food and other
+primary rewards in the past. In this sense drive is
+conceived as arising from a tissue need and having
+the general function of arousing or activating behaviour. Direct tension reduction becomes the critical
+reinforcement factor in the process oflearning.
+The essence of the drive doctrine can perhaps be
+summarised (and oversimplified) in the form of two
+propositions:
+(i) Organisms act only to reduce their drives; thus
+all activities are interpreted as direct or indirect
+attempts at drive reduction.
+(ii) Activities that are accompanied by a reduction in
+drive are strengthened, and such drive reduction is
+a necessary condition for learning to occur.
+Drive theory, in one form or another, still stands at
+the centre of modern thinking about motivation and
+learning, and has been extended to the analysis of
+emotional states such as fear and anxiety, aggression
+and dependency. These emotional states are considered within the theory as logically equivalent in
+status, character and function to such drives as
+hunger and thirst. Attempts have been made, for
+example, to treat frustration as a drive which has
+particular patterns of behaviour associated with it,
+typically anger and attacking behaviour. Aggression
+may be directed toward the frustrating agent or
+turned against some other object or person, including
+Emotions 43
+the self. Although the early suggestion was that
+aggression always results from frustration and that
+frustration always leads to aggression, the second half
+of this hypothesis has been modified to acknowledge
+that a number of other reactions to frustration, in
+addition to aggression, are possible. Included among
+these alternatives are regression, repression, and
+fixation (Maier, 1949).
+Conflict can be regarded as a special case of
+frustration, often arising from two or more equal but
+incompatible response tendencies. In a sense it is
+equivalent to a condition of double frustration, each
+of the competing tendencies serving as the barrier to
+the completion of the other. As in the case of other
+frustrations, conflict is a state of increased tension,
+but by its very nature it is characterised by vacillation, hesitancy, fatigue and often complete blocking
+(Miller, 1944). In both clinical observations and
+experimental studies conflict has been shown to be an
+emotional response to a situation requiring incompatible responses, e.g. those involving approach to
+and those involving avoidance of a goal.
+Perhaps the most widely discussed emotion il). the
+context of learning and emotion is fear or anxiety.
+One influential view is that anxiety is a learned
+response occurring to signals that are premonitory of
+situations of injury or pain (Mowrer, 1939). According to this view, anxiety is basically anticipatory in
+nature and has great biological utility in that it
+adaptively motivates living organisms to deal with
+traumatic events in advance of their actual occurrence, thereby diminishing harmful effects.
+It is in this general biological sense that both
+'emotion' and 'motivation' can be viewed as a
+complex integration of behaviour involving selective
+attention to certain events, a heightened physiological
+state of excitement, and certain probable patterns of
+action. These patterns of action are common to most
+higher species of animals and have a clear biological
+utility in coping with environment and survival. Both
+are linked to environmental stimuli which act as
+incentives or triggers of behaviour, and to internal
+organismic conditions. Neither the external incentive
+nor the physiological state is in itself sufficient for
+producing any species-typical action: an interplay
+between them is necessary. This interplay can be
+illustrated in accounts of sexual arousal which
+emphasise that sexual behaviour depends on two
+conditions: adequate hormonal levels and adequate
+external stimulation.
+Over the years it has become increasingly clear that
+our existing theories of motivation and learning, while
+retaining a certain heuristic value, are thinly stretched
+when it comes to human experience. Various social
+needs relating to achievement, power, affiliation, etc.
+have been postulated which do not readily fit into
+existing drive theories, and in the development of
+which early emotional experiences seem. to be par-
+44 Basic processes
+ticularly relevant. There is, nonetheless, a very
+substantial and impressive set of studies attempting
+to analyse the many aspects of motivation, emotion
+and learning which have been outlined. The present
+chapter has considered some of this evidence in
+relation to the complex experience and reaction
+pattern which we label 'emotional'. This pattern is not
+fixed but alters as it encounters the stresses and
+demands of the environment, and as we learn to
+interact with the environment more or less successfully. Whatever innate emotional mechanisms there
+may be, they are modified and shaped by the
+individual's transactions with the outer world. It is the
+nature of these learning mechanisms which must now
+References
+Argyle, M. (1969). Social Interaction (London: Methuen)
+Arnold, Magda B. (1960). Emotion and Personality (2 vols.)
+(New York: Columbia University Press)
+Cannon, W. B. (1929). Bodily Changes in Pain, Hunger,
+Fear and Rage, 2nd Ed. (New York: Harper and Row)
+Cannon. W. B. (1932). The Wisdom of the Body (New
+York: W. W. Norton)
+Cofer, C. N. and Appley, M. H. (1964). Motivation: Theory
+and Research (New York: Wiley)
+Davitz, 1. R. (1964). The Communication of Emotional
+Meaning (New York: McGraw-Hill)
+Eibl-Eibesfeldt, I. (1971). Love and Hate (London: Methuen)
+Ekman, P., Friesen, Wallace, V. and Ellsworth, Phoebe
+(1972). Emotion in the Human Face (New York:
+Pergamon Press)
+Epstein, S. (1967). Toward a unified theory of anxiety. In:
+Progress in Experimental Personality Research, Vol. 4
+(B. A. Maher, editor) (New York: Academic Press)
+Exline, R. (1971). Visual Interaction: The glances of Power
+and Preference. In: Nebraska Symposium on Motivation
+(1. K. Cole, editor) (Lincoln, Nebraska: University of
+Nebraska Press)
+Eysenck, H. 1. (1967). The Biological Basis of Personality
+(Springfield: Thomas)
+Eysenck, H. 1. (1969). The Structure of Human Personality,
+3rd Ed. (London: Methuen)
+Goldstein, M. L. (1968). Physiological theories of emotion:
+a critical historical review from the standpoint of
+behaviour theory. Psycho!. Bull., 69, 23--40
+Grossman, S. P. (1967). A Textbook of Physiological
+Psychology (New York: Wiley)
+Hebb, D. O. (1946). On the nature of fear. Psycho!. Rev.,
+53,259-276
+Hebb, D. O. (1955). Drives and the CNS (conceptual
+nervous system). Psychol. Rev., 62, 243-254
+Hes>, W. R. (1954). The diencephalon: Autonomic and
+Extra-Pyramidal Functions (London: Heinemann)
+Hillman, 1. (1960). Emotion. A Comprehensive Phenomenology of Theories and their Meanings for Therapy
+(London: Routledge & Kegan Paul)
+Hohmann, G. W. (1966). Some effects of spinal cord lesions
+on experienced emotional feelings. Psychophysiology, 3,
+143-156
+Hull, C. L. (1943). Princip{es of Behaviour (New York:
+Appleton-Century Crofts)
+be examined.
+Animal laboratory studies of conditioning and
+learning have been of importance in psychology since
+the beginning of the century. It is only in the last
+decade or two that there has been a growth of interest
+in the application of conditioning principles to
+human problems and human retraining. The combination of laboratory-based experiments and
+applied clinical therapies provides a rich, diverse
+array of evidence which is contributing to a reshaping of the older style theories of learning. The
+next chapter will first discuss some of the basic
+paradigms of learning and then consider their role in
+the analysis of human emotional behaviour.
+lames, W. (1890). Principles of Psychology (London:
+Macmillan)
+Kendell, R: E. (1968). The Classification of Depressive
+Illnesses (London: Oxford University Press)
+Lang, P. 1. (1968). Fear reduction and fear behavior:
+Problems in treating a construct. In: Research in Psychotherapy, Vol. 3 (1. M. Shlien, editor) (Washington:
+American Psychological Association)
+Lazarus, R. S., Opton, E. M., Jr., Nomikos, M. S. and
+Rankin, N. O. (1965). The principle of short-circuiting of
+threat: Further evidence. J. Personal., 33, 622-635
+Lazarus, R. S. (1966). Psychological Stress and the Coping
+Process (New York: McGraw-Hill)
+Lazarus, R. S. and Opton, E. M. Jr. (1966). The study of
+psychological stress: A summary of theoretical formulations and experimental findings. In: Anxiety and
+Behavior, Chap. 10 (C. D. Spielberger, editor) (New
+York: Academic Press)
+Lazarus, R. S. (1968). Emotions and adaptation: conceptual
+and empirical relations. In: Nebraska Symposium on
+Motivation, 175-266 (W. 1. Arnold, editor) (Lincoln,
+Nebraska: University of Nebraska Press)
+Lewis, M. and Brooks-Gunn, Jeanne (1972). Self, other and
+fear: the reaction of infants to people. Princeton, N. S. :
+Education Testing Service. Res. Bull., May
+Lewis, M. and Freedle, R. (1972). Mother-infant dyad: the
+cradle of meaning. Paper presented at a symposium on
+'Language and Thought: Communication and Affect'
+(Erindale College, University of Toronto)
+Lorenz, K. (1967). On aggression (London: Methuen)
+Maier, N. R. F. (1949). Frustration: The study of behaviour
+without a goal (New York: McGraw-Hill)
+Martin, Irene (1973). Somatic Reactivity: Interpretation.
+Handbook of Abnormal Psychology, 2nd Ed., Chap. II
+(H. J. Eysenck, editor) (London: Pitman)
+Mathews, A. (1971). Psychophysiological approaches to the
+investigation' of desensitization and related procedures.
+Psychol. Bull, 76, 73-91
+McDougall, W. (1912). An Introduction to Social Psychology (Boston: Luce)
+Meichenbaum, D. (1972). Clinical implications of modifying
+what clients say to themselves. University of Waterloo,
+Research Reports in Psychology: Waterloo, Ontario:
+Research Report, No. 42
+Miller, N. E. (1944). Experimental studies in conflict. In:
+Personality and the Behaviour Disorders (J. Hunt, editor)
+(New York: Ronald Press)
+Mowrer, O. H. (1939). A stimulus-response analysis of
+anxiety and its role as a reinforcing agent. Psychol. Rev.,
+46,553-565
+Sartre, J. P. (1948). The Emotio.ns: Outline of a Theory
+(New York: Philosophical Library)
+Schachter, S. (1966). The interaction of cognitive and
+physiological determinants of emotional state. In:
+Anxiety and Behavior, Chap. 9 (C. D. Spielberger, editor)
+(New York: Academic Press)
+Schildkraut, J. J. and Kety, S. S. (1967). Biogenic amines
+and emotion. Science, 156,21-30
+Seligman, M. E. P., Maier, S. F. and Solomon, R. L. (1971).
+Emotions 45
+Unpredictable and uncontrollable aversive events. In:
+Aversive Conditioning and Learning, Chap. 6 (F. R.
+Brush, editor) (New York: Academic Press)
+Selye, H. (1956). The stress of life (New York: McGrawHill)
+Tinbergen, N. (1953). The Herring Gulfs World (London:
+Collins)
+van Lawick-Goodall, Jane (1971). In the Shadow qJ Man
+(London: Collins)
+Williams, R. J. (1956). Biochemical Individuality (New
+York: Wiley)
+Zegans, Susan and Zegans, L. S. (1972). Fear of strangers
+in children and the orienting reaction. Behavioral Sci., 17,
+407--419
+Chapter 4
+CONDITIONING
+Irene D. Martin
+There is firm and substantial evidence for the view
+that conditioning processes play an important role in
+toe acquisition of human emotional responses, attitudes and values, social skills, conscience, and even
+some aspects of language. This is not always apparent
+from the traditional, zoo centric approach of learning
+theorists. It is now almost a hundred years since basic
+conditioning paradigms began to be explored, largely
+with infra-human animals and almost entirely under
+strictly-controlled laboratory conditions. An outline of
+these basic conditioning paradigms and principles will
+be given in this chapter; they represent the fundamental groundwork of conditioning theory and practice.
+More recently, however, there has been an expansion in human-oriented studies, both laboratory and
+clinical, and this has forced investigators to broaden
+their view of conditioning and to adopt a more flexible
+approach to some of the basic assumptions of traditional studies. Older assumptions have had to make
+way for a loosening of definitions: a conditioned
+response is not necessarily a reflex, a stimulus not
+necessarily defined in physical terms but in terms of
+salience and significance for the individual. Perceptual/
+cognitive factors may alter the typical learning curve,
+and their effects have to be taken into account.
+Learning is a process occurring continuously in the
+transactions which living organisms have with their
+surroundings. The varieties of learning in a lifetime's
+experience are many: we have learned to use our
+hands; we have learned languages; we have learned a
+whole range of social skills and attitudes.
+It is debatable how many basic types of learning
+there are, and whether one or more theories is required to account for them. Categories of human
+learning include conditioning, probability learning,
+motor skill learning, and problem solving, among
+others. While certain theoretical issues remain obscure
+there is fairly general agreement about some of the
+principles of learning, i.e. on those factors which
+determine whether or not learning is likely to occur,
+how efficient and rapid the learned response will be,
+and how well it will be retained. High on the list of
+relevant principles is the role of motivation. The
+motivational state of the organism, whether in a more
+primitive 'drive' sense (hunger, thirst, sex, etc.) or in a
+more general arousal sense (level of general emotionality or autonomic activation) is known to affect the
+rate and kind of learning. Another important and
+related factor is that of reward and punishment. This
+can be used very effectively to control behaviour, and
+learning is more easily accomplished when explicit
+programmes are adopted. Thus the 'schedules of
+reinforcement' frequently described in the literature
+relate to the way in which the organism's specific
+responses are linked with specific rewards and punishment in a highly controlled way.
+Conditioning is one of the categories of learning
+which has been studied in all kinds of species of
+animals. The process of conditioning refers to a
+change in responsiveness; first, to the occurrence of
+new responses, and second to a change in the response
+over time, often to some criterion such as increased
+efficiency or economy of effort. Typically the conditioning experiment involves the successive occurrence
+in time of two stimuli: the first a mild stimulus
+producing little or no reaction, and the second a
+significant or salient stimulus which produces a clearcut reaction.
+Typical examples of experimental sequences of
+pairs of stimuli are: a buzzer followed by an electric
+shock; a tone followed by food; a dim light followed
+by an airpuff into the eye. These sequences are illustrated in Figure 4.1 which also shows the kinds of
+reactions which are measured in laboratory conditioning experiments.
+TERMINOLOGY
+Pavlov called the presentation of food the unconditioned stimulus (UCS) and the salivation which it
+evoked the unconditioned response (UCR). The
+repeated pairing of the buzzer with the food turns the
+originally neutral stimulus into a conditioned stimulus
+(CS) which now evokes salivation as a conditioned
+response (CR). Thus conditioning experiments are
+essentially concerned with a simple temporal-relational property between two stimuli: A followed by B.
+Note that B must be the more intense or significant
+stimulus if conditioning is to occur. If this situation is
+reversed and the more intense stimulus B precedes A,
+we have a situation of 'backward conditi0l1ing' which
+has different and less profound effects than the usual
+forward conditioning situation. Note also that several
+important requirements
